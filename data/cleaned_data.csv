@@ -1,0 +1,881 @@
+_id,dataCollectionDate,beachName,windSpeed,windDirection,airTemp,rain,rainAmount,waterTemp,waterFowl,waveAction,waterClarity,turbidity
+14,2010-06-04,Hanlan's Point Beach,10,None,22,Yes,2,17.5,30,LOW,"Clear, green",1.7
+16,2010-06-06,Hanlan's Point Beach,20,N,12,Yes,20,13,18,MOD,Cloudy,4
+26,2010-06-16,Hanlan's Point Beach,26,E,16,Yes,15,17.5,36,LOW,Cloudy,1
+32,2010-06-22,Hanlan's Point Beach,15,E,22,Yes,19,17.1,17,MOD,Clear,0.7
+34,2010-06-24,Hanlan's Point Beach,7,W,20,No,4,19.3,12,HIGH,Cloudy,4.5
+36,2010-06-26,Hanlan's Point Beach,4,None,24,Yes,7,18.2,30,MOD,Clear,3.8
+37,2010-06-27,Hanlan's Point Beach,5,None,22,Yes,45,16.1,3,LOW,Clear,1.7
+38,2010-06-28,Hanlan's Point Beach,9,SW,21,No,0,17.9,60,MOD,Cloudy,0.8
+56,2010-07-16,Hanlan's Point Beach,27,W,27,No,1,23.6,140,MOD,cloudy,0.9
+59,2010-07-19,Hanlan's Point Beach,10,W,27,Yes,1,19,5,MOD,clear,1.4
+64,2010-07-24,Hanlan's Point Beach,20,None,26,Yes,13,18.6,30,MOD,cloudy,2.1
+68,2010-07-28,Hanlan's Point Beach,17,W,21,Yes,2,20.2,100,MOD,cloudy,1
+69,2010-07-29,Hanlan's Point Beach,11,NW,25,Yes,3,11.1,60,LOW,None,0.1
+72,2010-08-01,Hanlan's Point Beach,8,NE,18,Yes,0,18.7,15,MOD,Clear,1.3
+85,2010-06-04,Gibraltar Point Beach,10,None,22,Yes,2,17.8,10,LOW,"Clear, green",2.5
+97,2010-06-16,Gibraltar Point Beach,26,E,16,Yes,15,17.78,4,HIGH,Clear,2.2
+103,2010-06-22,Gibraltar Point Beach,15,E,22,Yes,19,18.4,8,MOD,Clear,1.3
+105,2010-06-24,Gibraltar Point Beach,7,W,20,No,4,19.2,3,HIGH,Cloudy,1.9
+107,2010-06-26,Gibraltar Point Beach,4,None,24,Yes,7,18.1,25,MOD,Cloudy,4.5
+108,2010-06-27,Gibraltar Point Beach,5,None,22,Yes,45,18,75,LOW,Clear,1
+109,2010-06-28,Gibraltar Point Beach,9,SW,21,No,0,18.1,3,MOD,Cloudy,0.9
+147,2010-06-04,Ward's Island Beach,10,None,22,Yes,2,18.6,20,LOW,"Murky, green",4.8
+159,2010-06-16,Ward's Island Beach,26,E,16,Yes,15,16.83,130,LOW,Cloudy,1.1
+165,2010-06-22,Ward's Island Beach,15,E,22,Yes,19,18.8,12,LOW,Clear,1.5
+167,2010-06-24,Ward's Island Beach,7,W,20,No,4,19.3,82,MOD,Cloudy,1.2
+169,2010-06-26,Ward's Island Beach,4,None,24,Yes,7,18.9,75,MOD,Clear,2.1
+170,2010-06-27,Ward's Island Beach,5,None,22,Yes,45,18.8,60,LOW,Cloudy,8.4
+171,2010-06-28,Ward's Island Beach,9,SW,21,No,0,18.3,200,HIGH,Cloudy,1.6
+182,2010-07-09,Ward's Island Beach,7,SW,21,Yes,30,18.9,220,NONE,clear,0.8
+189,2010-07-16,Ward's Island Beach,27,W,27,No,1,23.6,36,LOW,clear,0.4
+192,2010-07-19,Ward's Island Beach,10,W,27,Yes,1,20,29,LOW,clear,0.6
+197,2010-07-24,Ward's Island Beach,20,None,26,Yes,13,18.9,10,MOD,cloudy,0.8
+216,2010-07-09,Gibraltar Point Beach,7,SW,21,Yes,30,18.5,3,NONE,clear,0.5
+226,2010-07-19,Gibraltar Point Beach,10,W,27,Yes,1,20.5,6,MOD,clear,0.6
+231,2010-07-24,Gibraltar Point Beach,20,None,26,Yes,13,17.9,4,MOD,cloudy,0.4
+235,2010-07-28,Gibraltar Point Beach,17,W,21,Yes,2,19.9,25,MOD,cloudy,1.4
+236,2010-07-29,Gibraltar Point Beach,11,NW,25,Yes,3,17.2,5,LOW,None,1.2
+239,2010-08-01,Gibraltar Point Beach,8,NE,18,Yes,0,18,25,MOD,Murky,2.6
+251,2010-06-04,Centre Island Beach,10,None,22,Yes,2,17.9,35,LOW,"Semi-clear, green",1.8
+263,2010-06-16,Centre Island Beach,26,E,16,Yes,15,17.38,90,HIGH,Cloudy,1.1
+269,2010-06-22,Centre Island Beach,15,E,22,Yes,19,18.5,22,MOD,Clear,1
+271,2010-06-24,Centre Island Beach,7,W,20,No,4,18.7,50,MOD,Cloudy,4.8
+273,2010-06-26,Centre Island Beach,4,None,24,Yes,7,19.6,40,MOD,Clear,2.1
+274,2010-06-27,Centre Island Beach,5,None,22,Yes,45,17.5,25,LOW,Clear,2.3
+275,2010-06-28,Centre Island Beach,9,SW,21,No,0,18.4,80,HIGH,Cloudy,4.4
+286,2010-07-09,Centre Island Beach,7,SW,21,Yes,30,16.3,60,NONE,clear,0.5
+293,2010-07-16,Centre Island Beach,27,W,27,No,1,23.5,80,LOW,cloudy,2
+296,2010-07-19,Centre Island Beach,10,W,27,Yes,1,21,50,LOW,clear,0.6
+301,2010-07-24,Centre Island Beach,20,None,26,Yes,13,17.6,15,MOD,cloudy,3.3
+305,2010-07-28,Centre Island Beach,17,W,21,Yes,2,19.6,200,MOD,cloudy,3.4
+306,2010-07-29,Centre Island Beach,11,NW,25,Yes,3,18.3,40,LOW,None,1.2
+309,2010-08-01,Centre Island Beach,8,NE,18,Yes,0,17.9,50,MOD,Clear,2.6
+329,2010-06-06,Sunnyside Beach,20,N,12,Yes,20,13.5,59,LOW,Cloudy,3.1
+339,2010-06-16,Sunnyside Beach,26,E,16,Yes,15,17.11,73,LOW,Cloudy,1.1
+347,2010-06-24,Sunnyside Beach,7,W,20,No,4,19.2,90,LOW,Cloudy,2.8
+349,2010-06-26,Sunnyside Beach,4,None,24,Yes,7,13.3,125,MOD,Cloudy,9.5
+350,2010-06-27,Sunnyside Beach,5,None,22,Yes,45,18.4,10,LOW,Cloudy,6.2
+351,2010-06-28,Sunnyside Beach,9,SW,21,No,0,19.1,120,LOW,Cloudy,8.8
+362,2010-07-09,Sunnyside Beach,7,SW,21,Yes,30,21.1,100,NONE,cloudy,0.6
+369,2010-07-16,Sunnyside Beach,27,W,27,No,1,24.1,60,LOW,clear,0.7
+372,2010-07-19,Sunnyside Beach,10,W,27,Yes,1,18.2,70,LOW,clear,1
+377,2010-07-24,Sunnyside Beach,20,None,26,Yes,13,18.6,60,LOW,murky,5.8
+381,2010-07-28,Sunnyside Beach,17,W,21,Yes,2,21.4,15,LOW,cloudy,1.4
+382,2010-07-29,Sunnyside Beach,11,NW,25,Yes,3,17.7,15,LOW,None,0.7
+385,2010-08-01,Sunnyside Beach,8,NE,18,Yes,0,19,25,MOD,Clear,0.6
+400,2010-06-06,Marie Curtis Park East Beach,20,N,12,Yes,20,14,24,HIGH,Very Murky,75
+416,2010-06-22,Marie Curtis Park East Beach,15,E,22,Yes,19,17.1,9,MOD,Clear,0.4
+418,2010-06-24,Marie Curtis Park East Beach,7,W,20,No,4,17.2,60,MOD,Clear,0.7
+420,2010-06-26,Marie Curtis Park East Beach,4,None,24,Yes,7,17.3,15,MOD,Cloudy,2.2
+421,2010-06-27,Marie Curtis Park East Beach,5,None,22,Yes,45,17.1,100,LOW,Cloudy,3.5
+422,2010-06-28,Marie Curtis Park East Beach,9,SW,21,No,0,18.5,100,LOW,Cloudy/Murky,7.4
+433,2010-07-09,Marie Curtis Park East Beach,7,SW,21,Yes,30,20.7,300,NONE,clear,1.8
+440,2010-07-16,Marie Curtis Park East Beach,27,W,27,No,1,24.1,60,LOW,clear,0.7
+443,2010-07-19,Marie Curtis Park East Beach,10,W,27,Yes,1,17.8,150,LOW,clear,0.3
+448,2010-07-24,Marie Curtis Park East Beach,20,None,26,Yes,13,19.8,156,MOD,murky,8.8
+452,2010-07-28,Marie Curtis Park East Beach,17,W,21,Yes,2,21.2,100,LOW,cloudy,25.3
+453,2010-07-29,Marie Curtis Park East Beach,11,NW,25,Yes,3,14,15,LOW,None,0.8
+466,2010-07-19,Cherry Beach,15,None,27,Yes,1,23,29,LOW,clear,6
+470,2010-07-23,Cherry Beach,10,None,24,Yes,36,22,18,LOW,clear,1.7
+471,2010-07-24,Cherry Beach,5,None,26,Yes,13,19.6,9,MOD,cloudy,3.3
+475,2010-07-28,Cherry Beach,17,None,30,Yes,2,21,15,LOW,clear,3.2
+476,2010-07-29,Cherry Beach,18,NW,21,Yes,7,20.4,30,LOW,clear,2.9
+608,2009-06-15,Sunnyside Beach,5,E,24,Yes,0,16.5,50,LOW,"Murky green, floating algae",2.5
+775,2010-08-09,Cherry Beach,4,SW,26,Yes,0,20.6,30,LOW,clear,2
+776,2010-08-09,Woodbine Beaches,4,SW,26,Yes,0,14.9,70,LOW,"slightly murky, some grey algae",1.7
+777,2010-08-09,Kew Balmy Beach,4,SW,26,Yes,0,14.9,50,LOW,murky,4
+854,2010-05-31,Bluffer's Beach Park,11,None,20,No,2,17.5,70,MOD,Murky with Algae,40
+856,2010-06-02,Bluffer's Beach Park,15,None,27,Yes,21,17.5,80,LOW,Clear with algae,4.2
+858,2010-06-04,Bluffer's Beach Park,8,None,23,Yes,2,18,15,LOW,Murky,9.2
+860,2010-06-06,Bluffer's Beach Park,20,N,17,Yes,20,17,55,HIGH,Brown and Murky,117
+863,2010-06-09,Bluffer's Beach Park,13,None,15,Yes,4,14.2,45,MOD,Murky,11.2
+866,2010-06-12,Bluffer's Beach Park,27,E,15,No,4,15.13,92,HIGH,Murky,42.8
+870,2010-06-16,Bluffer's Beach Park,20,None,23,N/A,15,17.3,200,HIGH,"Cloudy, Murky",214.6
+876,2010-06-22,Bluffer's Beach Park,18,None,22,No,19,17,200,MOD,Murky,9.8
+878,2010-06-24,Bluffer's Beach Park,17,W,25,Yes,4,13.2,9,MOD,Murky,1.2
+880,2010-06-26,Bluffer's Beach Park,18,None,25,Yes,7,13,50,LOW,Slightlu Murky,2.6
+882,2010-06-28,Bluffer's Beach Park,11,None,27,Yes,0,17.6,25,LOW,"Murky, Brownish",24.8
+893,2010-07-09,Bluffer's Beach Park,4,None,25,Yes,30,18,180,LOW,None,4.7
+900,2010-07-16,Bluffer's Beach Park,9,None,29,Yes,0,23,41,LOW,Clear,2.1
+903,2010-07-19,Bluffer's Beach Park,15,None,27,Yes,1,21,24,LOW,"murky, algae",8.9
+907,2010-07-23,Bluffer's Beach Park,10,None,24,Yes,36,19.2,110,HIGH,murky,16.1
+908,2010-07-24,Bluffer's Beach Park,5,None,26,Yes,13,17.9,50,LOW,"murky, grey",2.4
+912,2010-07-28,Bluffer's Beach Park,17,None,30,Yes,2,18.9,90,HIGH,clear - sandy/algae,5.3
+913,2010-07-29,Bluffer's Beach Park,18,NW,21,Yes,7,14,90,LOW,milky brown,39.4
+925,2010-05-31,Kew Balmy Beach,11,None,20,No,2,18,20,MOD,Murky with Algae,17.4
+927,2010-06-02,Kew Balmy Beach,15,None,27,Yes,21,17.8,15,LOW,Clear with algae,3
+929,2010-06-04,Kew Balmy Beach,8,None,23,Yes,2,20,19,LOW,Clear,1.4
+931,2010-06-06,Kew Balmy Beach,20,N,17,Yes,20,18.5,20,HIGH,Brown and Murky,110
+934,2010-06-09,Kew Balmy Beach,13,None,15,Yes,4,15,20,MOD,Cloudy,8.4
+937,2010-06-12,Kew Balmy Beach,27,E,15,No,4,15.4,68,MOD,Slightly murky but still clear,11.6
+941,2010-06-16,Kew Balmy Beach,20,None,23,N/A,15,17.6,60,MOD,Murky,24.7
+947,2010-06-22,Kew Balmy Beach,18,None,22,No,19,17.5,50,LOW,Murky,2.3
+949,2010-06-24,Kew Balmy Beach,17,W,25,Yes,4,15.7,24,MOD,Murky,8.3
+951,2010-06-26,Kew Balmy Beach,18,None,25,Yes,7,15.9,140,LOW,Slightly Murky,1.9
+953,2010-06-28,Kew Balmy Beach,11,None,27,Yes,0,18.7,70,LOW,Semi-Clear,4.2
+964,2010-07-09,Kew Balmy Beach,4,None,25,Yes,30,16,9,LOW,None,1.7
+971,2010-07-16,Kew Balmy Beach,9,None,29,Yes,0,23,32,LOW,Clear with algae,5.6
+974,2010-07-19,Kew Balmy Beach,15,None,27,Yes,1,16,34,LOW,clear,1.5
+978,2010-07-23,Kew Balmy Beach,10,None,24,Yes,36,19,110,LOW,murky,61
+979,2010-07-24,Kew Balmy Beach,5,None,26,Yes,13,17.9,70,LOW,"murky, grey",6.1
+983,2010-07-28,Kew Balmy Beach,17,None,30,Yes,2,18,10,LOW,clear,4.1
+984,2010-07-29,Kew Balmy Beach,18,NW,21,Yes,7,11.6,50,LOW,clear,1.2
+996,2010-05-31,Woodbine Beaches,11,None,20,No,2,18,20,MOD,Slightly murky with algae,7
+998,2010-06-02,Woodbine Beaches,15,None,27,Yes,21,18.2,10,LOW,Clear,0.9
+1000,2010-06-04,Woodbine Beaches,8,None,23,Yes,2,17.3,5,NONE,Clear,1.7
+1002,2010-06-06,Woodbine Beaches,20,N,17,Yes,20,18,35,HIGH,Brown and Murky,100
+1005,2010-06-09,Woodbine Beaches,13,None,15,Yes,4,15.2,17,MOD,Semi-Clear with a chance of algae,5.6
+1008,2010-06-12,Woodbine Beaches,27,E,15,No,4,15.75,36,HIGH,Slightly murky but still clear,11.7
+1018,2010-06-22,Woodbine Beaches,18,None,22,No,19,17,60,LOW,Murky,6.9
+1020,2010-06-24,Woodbine Beaches,17,W,25,Yes,4,16.6,40,MOD,Semi-Clear,1.5
+1022,2010-06-26,Woodbine Beaches,18,None,25,Yes,7,15.4,30,LOW,Clear (31 slightly murky),2.8
+1024,2010-06-28,Woodbine Beaches,11,None,27,Yes,0,18.7,5,LOW,Semi-Clear,2
+1035,2010-07-09,Woodbine Beaches,4,None,25,Yes,30,22,315,LOW,None,1.3
+1042,2010-07-16,Woodbine Beaches,9,None,29,Yes,0,22,21,LOW,Clear with algae,1.9
+1045,2010-07-19,Woodbine Beaches,15,None,27,Yes,1,22,29,LOW,clearish + green algae,3.8
+1049,2010-07-23,Woodbine Beaches,10,None,24,Yes,36,18,35,MOD,murky,27
+1050,2010-07-24,Woodbine Beaches,5,None,26,Yes,13,17.7,60,LOW,"semi-clear, greyish",2.3
+1054,2010-07-28,Woodbine Beaches,17,None,30,Yes,2,18,35,LOW,clear + algae,4.6
+1055,2010-07-29,Woodbine Beaches,18,NW,21,Yes,7,12,40,LOW,clear,1.9
+1067,2010-05-31,Cherry Beach,11,None,20,No,2,18,30,LOW,Clear,5
+1069,2010-06-02,Cherry Beach,15,None,27,Yes,21,17.5,25,LOW,Clear,1.2
+1070,2010-06-03,Cherry Beach,10,None,20,No,3,20,4,LOW,Clear,3
+1071,2010-06-04,Cherry Beach,8,None,23,Yes,2,19.1,10,LOW,"Murky, green",29
+1073,2010-06-06,Cherry Beach,20,N,17,Yes,20,18.5,20,LOW,Cloudy,4.2
+1079,2010-06-12,Cherry Beach,27,E,15,No,4,17.56,7,MOD,Clear,4.5
+1083,2010-06-16,Cherry Beach,20,None,23,N/A,15,17.5,12,LOW,Clear,1
+1089,2010-06-22,Cherry Beach,18,None,22,No,19,19.3,32,LOW,Clear,1.7
+1091,2010-06-24,Cherry Beach,17,W,25,Yes,4,20.1,23,LOW,Cloudy,1.4
+1093,2010-06-26,Cherry Beach,18,None,25,Yes,7,16.2,3,LOW,Clear,1.1
+1095,2010-06-28,Cherry Beach,11,None,27,Yes,0,18.7,20,LOW,Murky,3.2
+1106,2010-07-09,Cherry Beach,4,None,25,Yes,30,19.5,60,LOW,None,0.4
+1113,2010-07-16,Cherry Beach,9,None,29,Yes,0,24.1,42,LOW,Cloudy,1.4
+1234,2009-08-09,Bluffer's Beach Park,9,None,21,N/A,23,17.9,50,LOW,murky,8.4
+1252,2009-08-27,Bluffer's Beach Park,9,None,20,N/A,0,19.4,15,HIGH,clear,3.3
+1253,2009-08-28,Bluffer's Beach Park,25,None,20,No,12,17.2,30,HIGH,murky,8.9
+1273,2009-06-02,Kew Balmy Beach,5,None,15,Yes,21,7.5,30,LOW,Clear,0.9
+1380,2009-06-02,Woodbine Beaches,5,None,15,Yes,21,7.5,30,LOW,Clear,1
+1381,2009-06-03,Woodbine Beaches,5,None,14,No,3,7.9,1,LOW,Clear,0.9
+1383,2009-06-05,Woodbine Beaches,17,None,17,No,2,10.7,5,LOW,Clear,0.1
+1387,2009-06-09,Woodbine Beaches,10,None,17,Yes,4,13.4,30,MOD,"Murky, green",8.2
+1390,2009-06-12,Woodbine Beaches,10,None,23,N/A,4,14.6,20,LOW,Clear algae clumps,1.2
+1394,2009-06-16,Woodbine Beaches,10,None,20,No,15,16,17,MOD,"Clear, green, algae",0.9
+1448,2009-08-09,Woodbine Beaches,9,None,21,N/A,23,18.3,110,LOW,clear,0.2
+1457,2009-08-18,Woodbine Beaches,25,None,27,No,1,25,100,MOD,murky,4.8
+1459,2009-08-20,Woodbine Beaches,15,None,26,Yes,29,21,67,HIGH,"murky, some debris",1.7
+1466,2009-08-27,Woodbine Beaches,9,None,20,N/A,0,17,20,HIGH,clear,5.1
+1467,2009-08-28,Woodbine Beaches,25,None,20,No,12,20.2,20,HIGH,murky,21.3
+1539,2009-06-01,Bluffer's Beach Park,15,None,13,No,6,13,50,LOW,Clear,3
+1541,2009-06-03,Bluffer's Beach Park,5,None,14,No,3,8.2,10,LOW,Clear,1.6
+1543,2009-06-05,Bluffer's Beach Park,17,None,17,No,2,11.3,30,LOW,Clear,0.4
+1550,2009-06-12,Bluffer's Beach Park,10,None,23,N/A,4,15.3,17,LOW,Murky,5.6
+1927,2008-07-19,Sunnyside Beach,7,W,26,Yes,3,21.4,100,NONE,slightly murky algae feathers flotables,3.5
+2582,2008-08-08,Woodbine Beaches,15,NW,20,Yes,1,19,15,LOW,Clear,5.4
+2583,2008-08-09,Woodbine Beaches,15,NW,19,Yes,1,19,5,LOW,clear,1.6
+2584,2008-08-10,Woodbine Beaches,5,N,16,Yes,6,18,5,LOW,clear,9.6
+2610,2010-08-10,Marie Curtis Park East Beach,6,W,24,Yes,16,18.5,18,NONE,clear,0.6
+2611,2010-08-10,Sunnyside Beach,6,W,24,Yes,16,16.9,63,NONE,clear,1.2
+2612,2010-08-10,Hanlan's Point Beach,6,W,24,Yes,16,19.2,37,NONE,clear,0.7
+2613,2010-08-10,Gibraltar Point Beach,6,W,24,Yes,16,19.1,2,NONE,clear,0.4
+2614,2010-08-10,Centre Island Beach,6,W,24,Yes,16,19.8,60,NONE,clear,0.8
+2615,2010-08-10,Ward's Island Beach,6,W,24,Yes,16,20.6,2,NONE,clear,0.5
+2617,2010-08-10,Woodbine Beaches,6,W,28,Yes,9,15.5,80,LOW,"24, 25 slightly murky, rest are clear",1.2
+2618,2010-08-10,Kew Balmy Beach,6,W,28,Yes,9,16,25,LOW,clear,1.2
+2619,2010-08-10,Bluffer's Beach Park,6,W,28,Yes,9,12.5,50,LOW,slightly murky,3.2
+2882,2008-08-02,Bluffer's Beach Park,20,None,24,Yes,6,16.3,70,LOW,Murky,3.9
+2888,2008-08-08,Bluffer's Beach Park,15,NW,20,Yes,1,19,10,LOW,Clear,3.8
+2889,2008-08-09,Bluffer's Beach Park,15,NW,19,Yes,1,21,40,LOW,clear,7.4
+2890,2008-08-10,Bluffer's Beach Park,5,N,16,Yes,6,18,20,LOW,clear,12
+3020,2011-05-28,Marie Curtis Park East Beach,13,NE,11,Yes,0,10,31,LOW,"Cloudy, mild debris",1.55
+3021,2011-05-28,Sunnyside Beach,13,NE,11,Yes,0,9,78,LOW,"Clear, very little debris",1.62
+3112,2011-05-29,Marie Curtis Park East Beach,9,E,12,Yes,0,10,34,LOW,"Clear, some debris some fowl in water.",1.7
+3113,2011-05-29,Sunnyside Beach,9,E,12,Yes,0,11,61,LOW,"Clear, slightly murky in other areas",1.2
+3182,2010-09-04,Marie Curtis Park East Beach,50,W,15,Yes,7,16.3,94,HIGH,Murky brown + leaves,8.1
+3183,2010-09-04,Sunnyside Beach,50,W,15,Yes,7,18.3,63,HIGH,dark black to cloduy green,15.2
+3188,2010-09-04,Cherry Beach,35,SW,17,Yes,9,20.2,42,HIGH,cloudy yellow/green,8.2
+3189,2010-09-04,Woodbine Beaches,35,SW,17,Yes,9,14,30,MOD,semi-clear,7.4
+3190,2010-09-04,Kew Balmy Beach,35,SW,17,Yes,9,15.9,110,HIGH,murky,27.1
+3191,2010-09-04,Bluffer's Beach Park,35,SW,17,Yes,9,12.6,75,MOD,clear,4.7
+3192,2011-05-30,Marie Curtis Park East Beach,5,SW,26,Yes,3,13,34,LOW,"clear, bit of debris",2.11
+3193,2011-05-30,Sunnyside Beach,5,SW,26,Yes,3,13,201,LOW,"murky, cebris, algae on top",2.09
+3309,2011-05-27,Marie Curtis Park East Beach,17,NE,13,Yes,11,11,31,LOW,"Murky with mild waves, some debris",2.97
+3310,2011-05-27,Sunnyside Beach,17,NE,13,Yes,11,11,116,LOW,Cloudy,1.62
+3329,2011-06-08,Marie Curtis Park East Beach,5,SW,33,Yes,7,13,78,LOW,"cloudy, murjy, debris",1.25
+3330,2011-06-08,Sunnyside Beach,5,SW,33,Yes,7,18,32,LOW,"cloudy, murjy, debris",1.76
+3359,2010-08-23,Marie Curtis Park East Beach,30,NE,23,Yes,0,20.9,30,HIGH,Murky,6.4
+3360,2010-08-23,Sunnyside Beach,30,NE,23,Yes,0,20.9,50,NONE,"Feathers, Clear",0.6
+3361,2010-08-23,Hanlan's Point Beach,30,NE,23,Yes,0,20.8,50,MOD,Clear,0.5
+3389,2010-09-05,Marie Curtis Park East Beach,15,W,12,Yes,0,9.2,43,NONE,cloudy,9.4
+3390,2010-09-05,Sunnyside Beach,15,W,12,Yes,0,11.5,80,LOW,clear,0.1
+3419,2011-06-29,Marie Curtis Park East Beach,17,W,24,Yes,7,9,28,LOW,clear,0.38
+3420,2011-06-29,Sunnyside Beach,17,W,24,Yes,7,8,5,LOW,clear,1.4
+3439,2011-07-03,Marie Curtis Park East Beach,11,NW,29,Yes,3,11,24,LOW,clear,1.3
+3440,2011-07-03,Sunnyside Beach,11,NW,29,Yes,3,11,41,LOW,clear,0.82
+3506,2010-08-26,Hanlan's Point Beach,17,W,18,Yes,10,21.4,180,MOD,clear,0.4
+3508,2010-08-26,Centre Island Beach,17,W,18,Yes,10,21.2,200,NONE,clear,0.6
+3509,2010-08-26,Ward's Island Beach,17,W,18,Yes,10,21.4,5,LOW,clear,0.9
+3510,2010-08-26,Cherry Beach,10,NW,23,Yes,10,21.6,5,LOW,clear,0.6
+3511,2010-08-26,Woodbine Beaches,10,NW,23,Yes,10,21,200,LOW,semi-clear,6.6
+3512,2010-08-26,Kew Balmy Beach,10,NW,23,Yes,10,21.5,30,LOW,semi-clear,4.4
+3513,2010-08-26,Bluffer's Beach Park,10,NW,23,Yes,10,21.5,60,LOW,clear,2.5
+3519,2011-06-05,Marie Curtis Park East Beach,13,SW,27,Yes,11,9,58,LOW,"slightly cloudy/ murky in areas, some debris",1.21
+3520,2011-06-05,Sunnyside Beach,13,SW,27,Yes,11,10,42,LOW,clear. some large debris,1.03
+3539,2011-06-14,Marie Curtis Park East Beach,17,N,21,Yes,0,8,103,LOW,"clear, cold, little debris",0.9
+3540,2011-06-14,Sunnyside Beach,17,N,21,Yes,0,8,52,LOW,"clear, cold",1.32
+3569,2011-06-24,Marie Curtis Park East Beach,17,SW,22,Yes,9,16,3,LOW,murky,2.27
+3570,2011-06-24,Sunnyside Beach,17,SW,22,Yes,9,17,10,LOW,murky,3.25
+3659,2011-06-23,Marie Curtis Park East Beach,5,NE,22,Yes,28,13,68,LOW,clear,0.45
+3660,2011-06-23,Sunnyside Beach,5,NE,22,Yes,28,15,23,LOW,clear,2.05
+3669,2011-06-25,Marie Curtis Park East Beach,18,SW,22,Yes,0,15,39,MOD,"murky, wavy",1.7
+3670,2011-06-25,Sunnyside Beach,18,SW,22,Yes,0,14,27,MOD,"murky, wavy, large debris",4.23
+3827,2011-07-24,Marie Curtis Park East Beach,30,NE,29,Yes,16,15,30,HIGH,cloudy,1.55
+3828,2011-07-24,Sunnyside Beach,30,NE,29,Yes,16,13,70,LOW,cloudy,1.42
+3880,2011-08-04,Marie Curtis Park East Beach,15,N,29,Yes,10,16,23,MOD,brown,7.82
+3881,2011-08-04,Sunnyside Beach,15,N,29,Yes,10,16,76,LOW,murky,1.11
+3890,2011-08-08,Marie Curtis Park East Beach,17,N,27,Yes,33,16,43,LOW,"murky, lots of algae",2.23
+3891,2011-08-08,Sunnyside Beach,17,N,27,Yes,33,17,62,LOW,"murky, some debris",1.51
+3959,2011-07-26,Marie Curtis Park East Beach,5,W,27,Yes,7,17,59,LOW,clear,1.51
+3960,2011-07-26,Sunnyside Beach,5,W,27,Yes,7,17,48,LOW,clear,1.29
+3979,2011-07-29,Marie Curtis Park East Beach,8,SW,28,Yes,3,16,40,LOW,clear,0.82
+3980,2011-07-29,Sunnyside Beach,8,SW,28,Yes,3,16,20,LOW,clear,1.19
+3989,2011-07-30,Marie Curtis Park East Beach,17,NW,30,Yes,0,15,48,LOW,"murky, lots of algae",1.67
+3990,2011-07-30,Sunnyside Beach,17,NW,30,Yes,0,15,71,LOW,"murky, algae",0.85
+4029,2011-08-10,Marie Curtis Park East Beach,11,W,26,Yes,3,21,43,LOW,murky,4.33
+4030,2011-08-10,Sunnyside Beach,11,W,26,Yes,3,21,62,LOW,murky,0.78
+4059,2011-08-16,Marie Curtis Park East Beach,15,NW,29,Yes,1,16,45,LOW,clear,1.87
+4060,2011-08-16,Sunnyside Beach,15,NW,29,Yes,1,16,40,LOW,clear,2.82
+4090,2011-08-07,Sunnyside Beach,5,SE,26,Yes,0,17,20,LOW,cloudy,0.78
+4099,2011-08-11,Marie Curtis Park East Beach,21,W,26,Yes,0,17,19,MOD,murky,1.68
+4100,2011-08-11,Sunnyside Beach,21,W,26,Yes,0,17,23,LOW,clear,2.31
+4139,2011-08-21,Marie Curtis Park East Beach,4,SW,24,Yes,0,18,41,LOW,"clear, no debris",1
+4140,2011-08-21,Sunnyside Beach,4,SW,24,Yes,0,20,62,LOW,"clear, no debris",1.53
+4149,2011-08-22,Marie Curtis Park East Beach,21,NW,22,Yes,20,19,103,MOD,clear,1.17
+4150,2011-08-22,Sunnyside Beach,21,NW,22,Yes,20,19,67,MOD,clear,1.18
+4159,2011-08-25,Marie Curtis Park East Beach,11,W,24,Yes,11,18,14,LOW,murky,4.27
+4160,2011-08-25,Sunnyside Beach,11,W,24,Yes,11,18,87,LOW,murky,5.15
+4200,2011-09-03,Marie Curtis Park East Beach,5,SW,30,Yes,1,15,31,LOW,clear,1.37
+4201,2011-09-03,Sunnyside Beach,5,SW,30,Yes,1,15,104,LOW,clear,1.47
+4237,2012-06-09,Sunnyside Beach,9,W,24,Yes,2,16,14,LOW,clear,1.17
+4246,2012-06-12,Marie Curtis Park East Beach,28,None,26,Yes,7,17,5,LOW,murky,4.45
+4247,2012-06-12,Sunnyside Beach,28,None,26,Yes,7,17,8,LOW,murky,2.46
+4349,2012-06-22,Marie Curtis Park East Beach,24,W,25,Yes,5,18,32,LOW,murky,6.24
+4350,2012-06-22,Sunnyside Beach,24,W,25,Yes,5,20,12,LOW,murky,4.29
+4389,2012-07-23,Marie Curtis Park East Beach,18,N,33,Yes,5,19,68,MOD,clear,2.16
+4427,2012-06-02,Sunnyside Beach,17,SW,17,Yes,37,16,68,HIGH,murky,20
+4436,2012-06-10,Marie Curtis Park East Beach,11,SE,27,Yes,3,17,34,LOW,clear,2.55
+4437,2012-06-10,Sunnyside Beach,11,SE,27,Yes,3,17,71,LOW,clear,1.14
+4566,2012-06-28,Marie Curtis Park East Beach,13,SE,29,Yes,0,16,3,LOW,clear,1.46
+4567,2012-06-28,Sunnyside Beach,13,SE,29,Yes,0,18,53,LOW,clear,1.92
+4626,2012-06-08,Marie Curtis Park East Beach,18,NW,26,Yes,0,13,19,LOW,clear,2.13
+4627,2012-06-08,Sunnyside Beach,18,NW,26,Yes,0,15,46,LOW,murky,2.82
+4646,2012-07-08,Marie Curtis Park East Beach,13,N,29,Yes,2,16,26,LOW,clear,1.38
+4647,2012-07-08,Sunnyside Beach,13,N,29,Yes,2,19,41,LOW,clear,1.62
+4680,2012-07-16,Marie Curtis Park East Beach,20,NW,32,Yes,5,21,7,LOW,"murky, some algae",7.21
+4681,2012-07-16,Sunnyside Beach,20,NW,32,Yes,5,21,89,LOW,"murky, lots of debris",2.28
+4704,2012-07-24,Sunnyside Beach,35,NW,27,Yes,3,19,46,LOW,clear,1.16
+4713,2012-07-26,Marie Curtis Park East Beach,9,SW,21,Yes,18,17,9,HIGH,murky,3.94
+4714,2012-07-26,Sunnyside Beach,9,SW,21,Yes,18,18,31,HIGH,murky,4.2
+4723,2012-07-27,Marie Curtis Park East Beach,13,N,25,Yes,7,16,9,LOW,murky,4.95
+4724,2012-07-27,Sunnyside Beach,13,N,25,Yes,7,17,16,LOW,murky,5.46
+4741,2012-06-04,Marie Curtis Park East Beach,21,S,17,Yes,1,11,3,LOW,cloudy,2.31
+4742,2012-06-04,Sunnyside Beach,21,S,17,Yes,1,11,32,LOW,clear,2.68
+4800,2012-08-01,Marie Curtis Park East Beach,15,NW,21,Yes,39,16,3,NONE,murky,4.64
+4801,2012-08-01,Sunnyside Beach,15,NW,21,Yes,39,18,26,NONE,murky,1.37
+4824,2012-08-05,Sunnyside Beach,28,N,29,Yes,12,19,111,HIGH,cloudy,42.15
+4853,2012-08-10,Marie Curtis Park East Beach,9,N,18,Yes,5,15,29,LOW,murky,5.06
+4854,2012-08-10,Sunnyside Beach,9,N,18,Yes,5,16,12,MOD,murky,2.03
+4878,2012-06-05,Sunnyside Beach,9,N,20,Yes,1,16,21,LOW,clear,1.29
+4887,2012-06-13,Marie Curtis Park East Beach,26,NW,22,Yes,3,17,40,LOW,clear,1.65
+4888,2012-06-13,Sunnyside Beach,26,NW,22,Yes,3,17,9,LOW,clear,2.23
+4897,2012-06-25,Marie Curtis Park East Beach,33,NW,22,Yes,1,16,23,LOW,clear,15.8
+4898,2012-06-25,Sunnyside Beach,33,NW,22,Yes,1,17,11,LOW,clear,4.6
+4937,2012-08-06,Marie Curtis Park East Beach,15,N,21,Yes,17,16,18,LOW,clear,5.89
+4938,2012-08-06,Sunnyside Beach,15,N,21,Yes,17,17,311,LOW,clear,9.54
+4963,2012-08-11,Marie Curtis Park East Beach,15,S,20,Yes,21,16,39,MOD,clear,3.14
+4964,2012-08-11,Sunnyside Beach,15,S,20,Yes,21,17,7,MOD,clear,2.13
+4983,2011-09-04,Marie Curtis Park East Beach,10,NE,22,Yes,2,17,39,MOD,murky,2.81
+4984,2011-09-04,Sunnyside Beach,10,NE,22,Yes,2,17,38,LOW,murky,2.3
+4993,2011-09-05,Marie Curtis Park East Beach,13,NW,19,Yes,4,19,30,LOW,murky,6.28
+4994,2011-09-05,Sunnyside Beach,13,NW,19,Yes,4,19,47,LOW,murky,2.14
+5014,2012-06-03,Sunnyside Beach,15,SW,18,Yes,1,17,46,LOW,cloudy,11.8
+5024,2012-06-07,Sunnyside Beach,5,NE,25,Yes,6,15,9,LOW,clear,2.08
+5034,2012-06-19,Sunnyside Beach,18,NW,32,Yes,4,22,14,MOD,cloudy,6.95
+5063,2012-07-28,Marie Curtis Park East Beach,21,N,25,Yes,0,18,24,LOW,clear,3.21
+5064,2012-07-28,Sunnyside Beach,21,N,25,Yes,0,19,56,LOW,murky,5.46
+5170,2013-07-08,Marie Curtis Park East Beach,9,W,28,Yes,26,18,11,LOW,murky,3.65
+5171,2013-07-08,Sunnyside Beach,9,W,28,Yes,26,18,11,LOW,murky,5.23
+5240,2013-05-22,Marie Curtis Park East Beach,9,SE,19,Yes,2,10,1,LOW,Cloudy. Surface scum.,3.35
+5251,2013-05-24,Sunnyside Beach,35,NW,8,Yes,4,6,9,LOW,clear,0.89
+5270,2013-06-01,Marie Curtis Park East Beach,10,SW,21,Yes,2,9,15,MOD,Murky,7.33
+5336,2013-06-02,Sunnyside Beach,5,S,21,Yes,0,11,3,LOW,Murky with debris,3.75
+5360,2013-06-17,Marie Curtis Park East Beach,7,W,18,Yes,9,11,10,LOW,clear,5.64
+5361,2013-06-17,Sunnyside Beach,7,W,18,Yes,9,10,15,LOW,clear,3.28
+5370,2013-06-26,Marie Curtis Park East Beach,11,SW,29,Yes,4,14,7,MOD,"murky, algae",1.49
+5371,2013-06-26,Sunnyside Beach,11,SW,29,Yes,4,14,14,MOD,clear,2.45
+5483,2013-06-14,Sunnyside Beach,21,N,23,Yes,10,10,3,LOW,murky,1.93
+5529,2012-08-12,Marie Curtis Park East Beach,28,N,26,Yes,2,16,21,MOD,clear,2.58
+5530,2012-08-12,Sunnyside Beach,28,N,26,Yes,2,15,1,MOD,murky,8.56
+5539,2012-08-28,Marie Curtis Park East Beach,18,NW,26,Yes,7,17,19,LOW,murky,16.52
+5540,2012-08-28,Sunnyside Beach,18,NW,26,Yes,7,18,19,LOW,murky,19.23
+5569,2013-05-23,Marie Curtis Park East Beach,22,W,10,Yes,4,10,2,LOW,cloudy and debris,2.85
+5570,2013-05-23,Sunnyside Beach,22,W,10,Yes,4,8,10,LOW,cloudy and debris,4.47
+5599,2013-06-29,Marie Curtis Park East Beach,8,W,17,Yes,16,14,28,LOW,"Murky, debris",3.92
+5600,2013-06-29,Sunnyside Beach,8,W,17,Yes,16,13,11,LOW,"Murky, debris",3.44
+5610,2013-07-04,Marie Curtis Park East Beach,7,SE,19,Yes,1,15,7,LOW,murky,8.32
+5611,2013-07-04,Sunnyside Beach,7,SE,19,Yes,1,17,13,LOW,clear,5.41
+5630,2013-07-07,Marie Curtis Park East Beach,21,NW,26,Yes,0,18,19,LOW,"Murky, debris",6.92
+5631,2013-07-07,Sunnyside Beach,21,NW,26,Yes,0,18,6,LOW,"Murky, debris",4.71
+5668,2013-05-30,Marie Curtis Park East Beach,8,S,21,Yes,8,9,2,LOW,Cloudy with lots of debris.,76.1
+5688,2013-06-08,Marie Curtis Park East Beach,9,SW,16,Yes,0,9,16,LOW,Murky,7.43
+5689,2013-06-08,Sunnyside Beach,9,SW,16,Yes,0,9,10,LOW,Murky,3.37
+5730,2013-07-10,Marie Curtis Park East Beach,11,SW,24,Yes,0,17,21,MOD,"Brown, murky with debris",14.7
+5731,2013-07-10,Sunnyside Beach,11,SW,24,Yes,0,18,13,LOW,Murky,5.77
+5810,2013-06-03,Marie Curtis Park East Beach,22,W,13,Yes,13,8,11,LOW,murky,21.2
+5811,2013-06-03,Sunnyside Beach,22,W,13,Yes,13,8,6,LOW,"murky, debris",13.27
+5820,2013-06-07,Marie Curtis Park East Beach,7,N,18,Yes,9,9,5,MOD,Clear,14.7
+5821,2013-06-07,Sunnyside Beach,7,N,18,Yes,9,9,10,LOW,Clear,2.04
+5830,2013-06-12,Marie Curtis Park East Beach,5,NW,17,Yes,6,9,12,LOW,"Debris, cloudy",7.4
+5831,2013-06-12,Sunnyside Beach,5,NW,17,Yes,6,9,8,LOW,"Murky, debris, cloudy",1.22
+5841,2013-06-19,Sunnyside Beach,7,NE,21,No,0,16,11,LOW,clear,1
+5881,2013-07-29,Sunnyside Beach,9,SW,21,Yes,2,17,7,LOW,murky,3.24
+5900,2013-08-03,Marie Curtis Park East Beach,29,NW,20,Yes,2,16,12,LOW,murky,2.27
+5901,2013-08-03,Sunnyside Beach,29,NW,20,Yes,2,16,28,LOW,murky,2.76
+5910,2013-08-08,Marie Curtis Park East Beach,5,N,20,Yes,3,16,56,MOD,Murky,3.12
+5911,2013-08-08,Sunnyside Beach,5,N,20,Yes,3,16,19,LOW,Murky,2.03
+5941,2013-09-02,Sunnyside Beach,15,SW,24,Yes,0,15,7,LOW,Cloudy and murky,1.29
+6120,2013-07-30,Marie Curtis Park East Beach,8,NE,24,Yes,0,12,9,LOW,clear,3.18
+6121,2013-07-30,Sunnyside Beach,8,NE,24,Yes,0,12,31,LOW,clear,2.86
+6130,2013-08-01,Marie Curtis Park East Beach,9,SE,20,Yes,13,15,27,MOD,"murky, cloudy",4.4
+6131,2013-08-01,Sunnyside Beach,9,SE,20,Yes,13,15,42,MOD,murky,1.27
+6141,2013-08-28,Sunnyside Beach,6,NE,21,Yes,14,18,32,LOW,Murky,5.2
+6150,2014-06-03,Marie Curtis Park East Beach,7,SE,19,Yes,11,13,32,LOW,cloudy and debris,2.34
+6151,2014-06-03,Sunnyside Beach,7,SE,19,Yes,11,13,237,LOW,cloudy and debris,3.39
+6180,2014-06-09,Marie Curtis Park East Beach,18,N,18,Yes,3,7,23,LOW,Murky,3.08
+6181,2014-06-09,Sunnyside Beach,18,N,18,Yes,3,9,37,LOW,Clear,1.03
+6190,2013-08-27,Marie Curtis Park East Beach,7,SW,30,Yes,17,16,18,LOW,murky,1.74
+6280,2014-06-17,Marie Curtis Park East Beach,4,NW,19,Yes,1,14,5,LOW,Clear,1.39
+6281,2014-06-17,Sunnyside Beach,4,NW,19,Yes,1,14,20,LOW,Clear,0.75
+6370,2014-05-28,Marie Curtis Park East Beach,9,SW,20,Yes,10,6,180,LOW,"murky, algae",1.66
+6371,2014-05-28,Sunnyside Beach,9,SW,20,Yes,10,7,110,LOW,clear,0.82
+6380,2014-06-18,Marie Curtis Park East Beach,9,None,21,Yes,22,13,27,LOW,cloudy with debris,1.65
+6381,2014-06-18,Sunnyside Beach,9,None,21,Yes,22,13,82,LOW,cloudy with debris,2.48
+6410,2013-08-02,Marie Curtis Park East Beach,5,W,23,Yes,27,16,16,LOW,clear,3.18
+6411,2013-08-02,Sunnyside Beach,5,W,23,Yes,27,17,22,LOW,clear,2.13
+6500,2013-07-28,Marie Curtis Park East Beach,15,SW,24,Yes,10,16,27,HIGH,Cloudy,18.1
+6501,2013-07-28,Sunnyside Beach,15,SW,24,Yes,10,16,41,MOD,Cloudy,3.15
+6560,2014-06-04,Marie Curtis Park East Beach,24,NW,22,Yes,5,10,80,LOW,Clear,0.78
+6561,2014-06-04,Sunnyside Beach,24,NW,22,Yes,5,10,140,LOW,Murky ,1.54
+6600,2014-06-14,Marie Curtis Park East Beach,26,NW,11,Yes,0,7,7,LOW,Clear,1.65
+6601,2014-06-14,Sunnyside Beach,26,NW,11,Yes,0,10,19,LOW,Clear,1.67
+6611,2013-07-20,Marie Curtis Park East Beach,4,NW,20,Yes,8,11,42,LOW,Clear,1.43
+6612,2013-07-20,Sunnyside Beach,4,NW,20,Yes,8,11,15,LOW,Cloudy,3.27
+6621,2013-08-13,Marie Curtis Park East Beach,24,NW,24,Yes,0,16,29,LOW,clear,1.11
+6622,2013-08-13,Sunnyside Beach,24,NW,24,Yes,0,16,14,LOW,clear,3.21
+6671,2013-08-31,Marie Curtis Park East Beach,5,S,23,Yes,2,20,39,LOW,"Cloudy, murky with algae",1.96
+6672,2013-08-31,Sunnyside Beach,5,S,23,Yes,2,20,18,LOW,Cloudy and murky,2.31
+6691,2014-06-12,Marie Curtis Park East Beach,5,SE,21,Yes,24,9,5,MOD,"murky, lots of debris",2.51
+6692,2014-06-12,Sunnyside Beach,5,SE,21,Yes,24,14,14,NONE,"murky, algae",2.32
+6710,2014-06-19,Marie Curtis Park East Beach,10,NE,20,Yes,0,15,12,LOW,murky,2.83
+6711,2014-06-19,Sunnyside Beach,10,NE,20,Yes,0,16,23,LOW,murky,7.65
+6760,2014-07-23,Marie Curtis Park East Beach,9,SE,24,Yes,0,14,6,LOW,murky,12.5
+6761,2014-07-23,Sunnyside Beach,9,SE,24,Yes,0,14,27,LOW,clear,1.16
+6828,2014-07-02,Sunnyside Beach,11,S,22,Yes,6,18,24,LOW,Murky,1.84
+6857,2014-07-29,Marie Curtis Park East Beach,7,NW,18,Yes,18,14,14,LOW,cloudy,6.46
+6858,2014-07-29,Sunnyside Beach,7,NW,18,Yes,18,13,57,LOW,cloudy,4.34
+6867,2014-07-30,Marie Curtis Park East Beach,10,SW,14,Yes,1,12,11,LOW,Clear,1.52
+6868,2014-07-30,Sunnyside Beach,10,SW,14,Yes,1,15,47,LOW,Murky,18.2
+6897,2014-08-31,Marie Curtis Park East Beach,8,SW,24,Yes,3,17,7,MOD,Murky,4.89
+6898,2014-08-31,Sunnyside Beach,8,SW,24,Yes,3,15,14,LOW,Cloudy,1.31
+6918,2014-06-24,Sunnyside Beach,12,SE,25,Yes,1,12,9,NONE,Clear,2.02
+6957,2014-07-03,Marie Curtis Park East Beach,16,NW,20,Yes,0,15,20,LOW,Clear,2.31
+6958,2014-07-03,Sunnyside Beach,16,NW,20,Yes,0,15,7,LOW,Clear,1.05
+6987,2014-07-14,Marie Curtis Park East Beach,6,SW,18,Yes,7,12,11,LOW,Clear,1.14
+6988,2014-07-14,Sunnyside Beach,6,SW,18,Yes,7,14,25,LOW,Clear,0.96
+6998,2014-07-31,Sunnyside Beach,14,SW,23,Yes,4,12,8,NONE,Clear,6.79
+7023,2014-06-30,Marie Curtis Park East Beach,9,NE,24,Yes,0,20,48,LOW,murky with debris,1.94
+7024,2014-06-30,Sunnyside Beach,9,NE,24,Yes,0,20,15,LOW,murky with debris,5.5
+7033,2014-07-09,Marie Curtis Park East Beach,15,SW,22,Yes,5,11,9,LOW,clear,1.57
+7034,2014-07-09,Sunnyside Beach,15,SW,22,Yes,5,14,22,LOW,murky with algae,3.23
+7054,2014-07-20,Sunnyside Beach,8,E,19,Yes,7,13,18,LOW,Clear,0.97
+7117,2014-06-26,Marie Curtis Park East Beach,8,SW,23,Yes,15,14,11,LOW,clear,3.01
+7118,2014-06-26,Sunnyside Beach,8,SW,23,Yes,15,14,19,LOW,clear,2.93
+7127,2014-07-05,Marie Curtis Park East Beach,16,NW,23,Yes,0,12,4,LOW,Clear,2.18
+7128,2014-07-05,Sunnyside Beach,16,NW,23,Yes,0,10,15,NONE,Clear,0.7
+7137,2014-07-21,Marie Curtis Park East Beach,11,W,17,Yes,2,17,34,LOW,Cloudy,5.85
+7138,2014-07-21,Sunnyside Beach,11,W,17,Yes,2,18,49,LOW,Cloudy,1.34
+7147,2014-07-28,Marie Curtis Park East Beach,26,N,20,Yes,15,12,8,MOD,murky,2.69
+7167,2014-08-13,Marie Curtis Park East Beach,15,NW,23,Yes,9,15,9,HIGH,cloudy,7.51
+7168,2014-08-13,Sunnyside Beach,15,NW,23,Yes,9,17,29,MOD,cloudy,3.62
+7188,2014-08-21,Sunnyside Beach,4,None,23,Yes,1,15,14,NONE,Clear,0.98
+7220,2014-07-07,Marie Curtis Park East Beach,21,SW,21,Yes,0,13,7,HIGH,Cloudy,4.29
+7221,2014-07-07,Sunnyside Beach,21,SW,21,Yes,0,12,11,HIGH,Cloudy,2.5
+7231,2014-07-08,Sunnyside Beach,16,SW,20,Yes,11,15,19,LOW,Clear,1.8
+7240,2014-07-15,Marie Curtis Park East Beach,10,E,16,Yes,0,12,12,LOW,Murky,0.99
+7241,2014-07-15,Sunnyside Beach,10,E,16,Yes,0,12,15,LOW,Clear,1.16
+7250,2014-07-16,Marie Curtis Park East Beach,7,SW,20,Yes,4,11,19,LOW,clear,1
+7251,2014-07-16,Sunnyside Beach,7,SW,20,Yes,4,14,450,LOW,clear,1.23
+7280,2014-08-06,Marie Curtis Park East Beach,12,N,23,Yes,0,17,8,LOW,clear,1.42
+7281,2014-08-06,Sunnyside Beach,12,N,23,Yes,0,17,27,LOW,clear,2.06
+7334,2014-07-17,Marie Curtis Park East Beach,4,NE,20,Yes,0,12,2,LOW,clear,2.88
+7335,2014-07-17,Sunnyside Beach,4,NE,20,Yes,0,13,17,NONE,clear,0.82
+7364,2014-08-02,Marie Curtis Park East Beach,4,E,22,Yes,1,17,52,LOW,Murky ,4.31
+7365,2014-08-02,Sunnyside Beach,4,E,22,Yes,1,17,47,LOW,Murky,1.56
+7374,2014-08-05,Marie Curtis Park East Beach,10,N,18,Yes,3,14,11,LOW,Clear,2.5
+7375,2014-08-05,Sunnyside Beach,10,N,18,Yes,3,18,29,LOW,Murky,1.32
+7440,2015-06-01,Marie Curtis Park East Beach,20,E,12,Yes,20,7,4,MOD,Cloudy,5.74
+7441,2015-06-01,Sunnyside Beach,20,E,12,Yes,20,7,37,MOD,Cloudy,0.76
+7460,2015-06-08,Marie Curtis Park East Beach,15,S,17,Yes,7,9,9,MOD,Cloudy with debris,2.69
+7461,2015-06-08,Sunnyside Beach,15,S,17,Yes,7,11,14,MOD,Cloudy with debris,3.62
+7470,2015-06-10,Marie Curtis Park East Beach,10,SE,19,Yes,10,9,13,LOW,Murky debris ,2.14
+7471,2015-06-10,Sunnyside Beach,10,SE,19,Yes,10,10,27,LOW,Murky debris ,8.48
+7480,2015-06-29,Marie Curtis Park East Beach,10,SE,16,Yes,11,16,8,LOW,Murky +debris,1.96
+7481,2015-06-29,Sunnyside Beach,10,SE,16,Yes,11,16,20,LOW,Clear,2.23
+7546,2015-06-23,Sunnyside Beach,20,W,21,Yes,25,17,27,HIGH,Cloudy with debris,3.91
+7611,2015-07-18,Sunnyside Beach,11,S,21,Yes,6,20,5,LOW,Clear,1.45
+7680,2015-06-14,Marie Curtis Park East Beach,30,SW,18,Yes,20,11,14,LOW,Clear with debris,2.35
+7681,2015-06-14,Sunnyside Beach,30,SW,18,Yes,20,14,8,LOW,Murky with debris,3.65
+7691,2015-06-15,Sunnyside Beach,7,SW,18,Yes,5,12,47,LOW,"Cloudy, murky",3.07
+7730,2015-07-15,Marie Curtis Park East Beach,23,NE,14,Yes,1,18,6,HIGH,Murky,6.11
+7731,2015-07-15,Sunnyside Beach,23,NE,14,Yes,1,18,6,HIGH,Clear,1.21
+7777,2015-05-30,Marie Curtis Park East Beach,21,SE,16,Yes,5,11,20,LOW,Fairly clear,2.02
+7778,2015-05-30,Sunnyside Beach,21,SE,16,Yes,5,11,30,LOW,Slighly murky,1.18
+7788,2015-05-31,Sunnyside Beach,20,NE,9,Yes,20,7,12,MOD,Cloudy,0.76
+7847,2015-07-09,Marie Curtis Park East Beach,20,N,14,Yes,10,18,1,LOW,Clear,0.91
+7848,2015-07-09,Sunnyside Beach,20,N,14,Yes,10,18,10,LOW,Clear,0.89
+7917,2015-07-20,Marie Curtis Park East Beach,10,SW,19,Yes,1,18,4,LOW,Clear,0.65
+7960,2015-06-11,Marie Curtis Park East Beach,15,S,18,Yes,20,9,21,MOD,"Murky, debris",6.46
+7961,2015-06-11,Sunnyside Beach,15,S,18,Yes,20,11,32,MOD,"Murky, debris",6.65
+8060,2015-08-01,Marie Curtis Park East Beach,10,W,21,Yes,0,11,11,LOW,Clear,0.79
+8061,2015-08-01,Sunnyside Beach,10,W,21,Yes,0,14,27,LOW,Clear,0.89
+8090,2015-06-06,Marie Curtis Park East Beach,20,S,16,Yes,6,9,18,LOW,Clear,1.74
+8091,2015-06-06,Sunnyside Beach,20,S,16,Yes,6,9,20,LOW,Clear,1.58
+8120,2015-06-13,Marie Curtis Park East Beach,11,E,15,Yes,10,14,10,LOW,Murky,13.4
+8121,2015-06-13,Sunnyside Beach,11,E,15,Yes,10,14,5,LOW,Murky,2.14
+8130,2015-06-16,Marie Curtis Park East Beach,10,NW,23,Yes,7,13,3,LOW,Cloudy with debris,4.66
+8131,2015-06-16,Sunnyside Beach,10,NW,23,Yes,7,19,20,LOW,Clear,3.56
+8171,2015-06-28,Sunnyside Beach,20,SE,15,Yes,38,16,6,HIGH,Clear,8.25
+8200,2016-05-27,Marie Curtis Park East Beach,4,SW,18,Yes,4,12,27,LOW,clear,1.1
+8201,2016-05-27,Sunnyside Beach,4,SW,18,Yes,4,13,112,LOW,murky,0.95
+8230,2016-06-05,Marie Curtis Park East Beach,11,SE,19,Yes,3,14,4,HIGH,murky,2.82
+8231,2016-06-05,Sunnyside Beach,11,SE,19,Yes,3,15,50,HIGH,murky,1.92
+8285,2015-08-03,Sunnyside Beach,24,W,18,Yes,20,12,2,MOD,Clear,3.11
+8304,2015-08-12,Marie Curtis Park East Beach,19,NW,20,Yes,0,12,3,LOW,Clear,0.99
+8305,2015-08-12,Sunnyside Beach,19,NW,20,Yes,0,14,12,LOW,Clear,0.69
+8314,2015-08-15,Marie Curtis Park East Beach,6,S,22,Yes,3,20,6,LOW,Clear,1.86
+8315,2015-08-15,Sunnyside Beach,6,S,22,Yes,3,18,24,LOW,Clear,2.03
+8324,2015-08-21,Marie Curtis Park East Beach,16,SW,19,Yes,10,16,13,MOD,Cloudy,17.9
+8325,2015-08-21,Sunnyside Beach,16,SW,19,Yes,10,20,6,MOD,Clear with debris,3.24
+8364,2016-05-28,Marie Curtis Park East Beach,11,E,18,Yes,0,14,14,LOW,"murky, algae",1.87
+8365,2016-05-28,Sunnyside Beach,11,E,18,Yes,0,13,47,LOW,cloudy,0.85
+8445,2016-06-06,Sunnyside Beach,17,W,15,Yes,23,11,15,HIGH,murky,1.71
+8454,2016-06-07,Marie Curtis Park East Beach,9,W,16,Yes,4,8,13,LOW,clear,0.68
+8455,2016-06-07,Sunnyside Beach,9,W,16,Yes,4,8,27,LOW,clear,0.8
+8484,2016-06-17,Marie Curtis Park East Beach,4,N,20,Yes,0,10,5,LOW,murky,2.06
+8485,2016-06-17,Sunnyside Beach,4,N,20,Yes,0,11,50,LOW,murky,1.12
+8513,2015-08-11,Marie Curtis Park East Beach,15,NW,21,Yes,34,16,23,LOW,Clear,1.51
+8514,2015-08-11,Sunnyside Beach,15,NW,21,Yes,34,16,37,LOW,Clear,0.8
+8573,2016-06-16,Marie Curtis Park East Beach,18,NE,17,Yes,0,10,40,MOD,clear,0.82
+8574,2016-06-16,Sunnyside Beach,18,NE,17,Yes,0,10,60,MOD,algae,0.64
+8610,2016-07-02,Marie Curtis Park East Beach,15,NW,17,Yes,15,9,20,LOW,clear,0.44
+8611,2016-07-02,Sunnyside Beach,15,NW,17,Yes,15,10,20,LOW,clear,0.85
+8723,2015-08-04,Marie Curtis Park East Beach,10,SW,20,Yes,1,11,24,LOW,Clear ,1.28
+8724,2015-08-04,Sunnyside Beach,10,SW,20,Yes,1,15,12,LOW,Clear + algae,0.78
+8753,2015-08-19,Marie Curtis Park East Beach,6,SE,24,Yes,0,15,2,LOW,Murky,1.41
+8813,2016-06-11,Marie Curtis Park East Beach,9,E,14,Yes,6,9,7,LOW,clear,12.5
+8814,2016-06-11,Sunnyside Beach,9,E,14,Yes,6,8,23,LOW,clear,0.69
+8834,2015-08-05,Sunnyside Beach,15,SW,21,Yes,1,13,36,LOW,"Clear, algae",1.46
+8933,2016-06-27,Marie Curtis Park East Beach,8,SW,18,Yes,4,15,30,LOW,clear,1.42
+8934,2016-06-27,Sunnyside Beach,8,SW,18,Yes,4,18,65,LOW,clear,1.02
+9003,2016-08-16,Marie Curtis Park East Beach,9,E,23,Yes,2,17,30,HIGH,murky,3.25
+9004,2016-08-16,Sunnyside Beach,9,E,23,Yes,2,20,60,HIGH,murky,0.92
+9083,2016-08-10,Marie Curtis Park East Beach,9,SW,23,Yes,1,22,25,LOW,Clear,1.51
+9084,2016-08-10,Sunnyside Beach,9,SW,23,Yes,1,20,70,LOW,Muky,0.94
+9103,2016-08-17,Marie Curtis Park East Beach,5,NW,18,Yes,16,24,35,LOW,Murky,4.61
+9104,2016-08-17,Sunnyside Beach,5,NW,18,Yes,16,22,59,LOW,Clear,2.43
+9173,2016-07-25,Marie Curtis Park East Beach,17,S,22,Yes,26,14,17,HIGH,cloudy,1.05
+9174,2016-07-25,Sunnyside Beach,17,S,22,Yes,26,16,26,HIGH,cloudy,1.74
+9254,2017-05-30,Sunnyside Beach,8,S,15,Yes,0,9,15,LOW,Murky,2.35
+9263,2017-05-31,Marie Curtis Park East Beach,8,SW,12,Yes,8,10,3,LOW,"Clear, Pollen on surface",3.24
+9264,2017-05-31,Sunnyside Beach,8,SW,12,Yes,8,9,50,LOW,Clear,2.25
+9303,2016-07-09,Marie Curtis Park East Beach,18,W,20,Yes,0,16,10,MOD,murky,1.56
+9333,2016-08-14,Marie Curtis Park East Beach,17,NW,22,Yes,7,17,65,LOW,clear,1.08
+9334,2016-08-14,Sunnyside Beach,17,NW,22,Yes,7,22,26,LOW,clear,1.14
+9363,2017-05-26,Marie Curtis Park East Beach,5,NW,13,Yes,55,6,7,LOW,Murky,22.2
+9364,2017-05-26,Sunnyside Beach,5,NW,13,Yes,55,6,15,LOW,Clear,3.71
+9373,2017-05-27,Marie Curtis Park East Beach,7,NW,13,Yes,0,7,6,LOW,"High Turbidity, Murky ",2.27
+9374,2017-05-27,Sunnyside Beach,7,NW,13,Yes,0,8,30,LOW,"High Turbidity, Murky ",1.75
+9404,2016-08-25,Marie Curtis Park East Beach,5,SW,22,Yes,0,17,5,LOW,Murky,5.49
+9405,2016-08-25,Sunnyside Beach,5,SW,22,Yes,0,18,30,LOW,Clear,1.69
+9414,2016-08-26,Marie Curtis Park East Beach,9,SW,21,Yes,21,19,42,LOW,clear,2.96
+9415,2016-08-26,Sunnyside Beach,9,SW,21,Yes,21,20,16,LOW,clear,1.51
+9454,2017-05-25,Marie Curtis Park East Beach,30,E,13,Yes,0,6,15,HIGH,"Dark, Count not see through ",2.2
+9473,2017-06-01,Marie Curtis Park East Beach,15,NW,12,Yes,1,6,10,LOW,Clear,0.64
+9474,2017-06-01,Sunnyside Beach,15,NW,12,Yes,1,7,42,LOW,Cloudy,1.41
+9508,2016-07-14,Marie Curtis Park East Beach,11,SW,21,Yes,8,17,18,HIGH,Cloudy,1.53
+9509,2016-07-14,Sunnyside Beach,11,SW,21,Yes,8,18,27,HIGH,Cloudy,1.26
+9578,2016-08-13,Marie Curtis Park East Beach,9,NE,24,Yes,0,20,13,LOW,Clear,1.02
+9579,2016-08-13,Sunnyside Beach,9,NE,24,Yes,0,22,140,LOW,Clear,0.74
+9598,2016-08-22,Marie Curtis Park East Beach,9,NW,15,Yes,0,19,31,LOW,clear,0.75
+9599,2016-08-22,Sunnyside Beach,9,NW,15,Yes,0,19,27,LOW,clear,0.8
+9680,2017-06-05,Marie Curtis Park East Beach,5,E,13,Yes,6,10,64,LOW,Murky,3.58
+9681,2017-06-05,Sunnyside Beach,5,E,13,Yes,6,9,35,LOW,Murky,2.39
+9690,2017-06-06,Marie Curtis Park East Beach,17,NW,14,Yes,0,9,13,LOW,Murky,1.23
+9691,2017-06-06,Sunnyside Beach,17,NW,14,Yes,0,9,42,LOW,Murky,1.16
+9700,2017-06-07,Marie Curtis Park East Beach,17,NE,12,Yes,4,9,15,HIGH,Murky ,3.78
+9701,2017-06-07,Sunnyside Beach,17,NE,12,Yes,4,9,47,LOW,Murky ,1.39
+9718,2016-07-10,Marie Curtis Park East Beach,13,None,19,Yes,2,12,15,LOW,clear,0.71
+9719,2016-07-10,Sunnyside Beach,13,None,19,Yes,2,14,45,LOW,clear,0.78
+9728,2016-07-15,Marie Curtis Park East Beach,8,SW,20,Yes,13,16,8,LOW,slightly cloudy,4.7
+9729,2016-07-15,Sunnyside Beach,8,SW,20,Yes,13,18,17,LOW,slightly cloudy,1.63
+9788,2016-07-31,Marie Curtis Park East Beach,18,NE,21,Yes,0,18,26,MOD,cloudy,2.97
+9789,2016-07-31,Sunnyside Beach,18,NE,21,Yes,0,18,17,MOD,cloudy,0.96
+9818,2016-08-21,Marie Curtis Park East Beach,22,SW,23,Yes,3,27,25,MOD,murky,6.13
+9819,2016-08-21,Sunnyside Beach,22,SW,23,Yes,3,23,200,HIGH,cloudy,2
+9838,2017-06-22,Marie Curtis Park East Beach,5,E,16,Yes,0,11,4,LOW,Clear,0.67
+9839,2017-06-22,Sunnyside Beach,5,E,16,Yes,0,12,25,LOW,Clear,1.02
+9868,2017-08-08,Marie Curtis Park East Beach,11,NW,16,Yes,1,10,2,LOW,Clear,0.82
+9869,2017-08-08,Sunnyside Beach,11,NW,16,Yes,1,14,70,LOW,Clear,1.53
+9898,2017-08-16,Marie Curtis Park East Beach,5,N,19,Yes,0,10,10,LOW,Slightly Cloudy,1.25
+9899,2017-08-16,Sunnyside Beach,5,N,19,Yes,0,10,40,LOW,Clear,0.92
+9928,2017-08-23,Marie Curtis Park East Beach,18,W,16,Yes,2,10,25,MOD,Clear,0.77
+9929,2017-08-23,Sunnyside Beach,18,W,16,Yes,2,13,40,LOW,Clear,1.41
+9940,2017-06-17,Marie Curtis Park East Beach,13,NE,18,Yes,4,13,25,LOW,Murky,2.1
+9941,2017-06-17,Sunnyside Beach,13,NE,18,Yes,4,13,40,LOW,Murky,5.63
+9960,2017-06-19,Marie Curtis Park East Beach,11,SW,18,Yes,1,12,10,LOW,Cloudy,1.25
+9961,2017-06-19,Sunnyside Beach,11,SW,18,Yes,1,15,50,LOW,Murky,13.9
+9970,2017-06-23,Marie Curtis Park East Beach,11,NE,19,Yes,10,11,25,LOW,Cloudy with a lot of debris on the shore,8.41
+9971,2017-06-23,Sunnyside Beach,11,NE,19,Yes,10,13,45,LOW,Cloudy,3.92
+9980,2017-06-24,Marie Curtis Park East Beach,9,NW,18,Yes,28,11,30,LOW,Clear,0.5
+9981,2017-06-24,Sunnyside Beach,9,NW,18,Yes,28,13,50,LOW,Clear,1.67
+10020,2017-07-14,Marie Curtis Park East Beach,11,NE,18,Yes,11,18,40,LOW,"Very murky, brown-green",20.7
+10021,2017-07-14,Sunnyside Beach,11,NE,18,Yes,11,18,55,LOW,Cloudy,7.26
+10030,2017-07-25,Marie Curtis Park East Beach,9,N,18,Yes,3,24,2,LOW,Clear,2.52
+10031,2017-07-25,Sunnyside Beach,9,N,18,Yes,3,19,200,LOW,Clear,1.48
+10055,2017-06-21,Marie Curtis Park East Beach,13,SW,13,Yes,11,10,5,LOW,Clear,0.51
+10056,2017-06-21,Sunnyside Beach,13,SW,13,Yes,11,10,20,LOW,Clear,0.77
+10076,2017-06-30,Sunnyside Beach,8,SW,17,Yes,4,7,35,LOW,Clear,2.63
+10105,2017-07-23,Marie Curtis Park East Beach,18,NE,22,Yes,2,18,17,MOD,Murky,2.33
+10106,2017-07-23,Sunnyside Beach,18,NE,22,Yes,2,18,45,LOW,Murky with debris,2.04
+10120,2017-07-27,Marie Curtis Park East Beach,8,SW,20,Yes,0,25,10,LOW,Murky,1.34
+10121,2017-07-27,Sunnyside Beach,8,SW,20,Yes,0,22,150,LOW,Murky,0.85
+10162,2017-06-20,Marie Curtis Park East Beach,11,SW,17,Yes,1,11,12,LOW,Murky,1.21
+10163,2017-06-20,Sunnyside Beach,11,SW,17,Yes,1,16,49,LOW,"Murky, a lot of debris and branches on shore",5.58
+10173,2017-07-01,Sunnyside Beach,5,NW,17,Yes,8,14,40,LOW,Cloudy,3.62
+10182,2017-07-08,Marie Curtis Park East Beach,24,NW,18,Yes,7,19,5,LOW,Murky,1.34
+10183,2017-07-08,Sunnyside Beach,24,NW,18,Yes,7,17,40,LOW,Murky,1.94
+10193,2017-07-13,Sunnyside Beach,32,NE,17,Yes,2,20,100,MOD,Murky,0.62
+10202,2017-07-28,Marie Curtis Park East Beach,17,NE,19,Yes,7,20,25,MOD,clear/cloudy,3.29
+10203,2017-07-28,Sunnyside Beach,17,NE,19,Yes,7,20,60,LOW,Clear,1.24
+10220,2017-08-02,Marie Curtis Park East Beach,9,SW,21,Yes,2,21,11,LOW,Clear,1.06
+10221,2017-08-02,Sunnyside Beach,9,SW,21,Yes,2,18,49,LOW,medium turbidity ,1.06
+10241,2017-08-05,Sunnyside Beach,35,SW,17,Yes,9,20,51,HIGH,Murky,6.9
+10300,2017-07-15,Marie Curtis Park East Beach,13,NW,19,Yes,0,14,17,LOW,Murky,2.05
+10301,2017-07-15,Sunnyside Beach,13,NW,19,Yes,0,15,12,LOW,Murky,2.47
+10330,2017-07-24,Marie Curtis Park East Beach,8,N,21,Yes,0,20,10,MOD,"Murky, debris on shore",2.63
+10331,2017-07-24,Sunnyside Beach,8,N,21,Yes,0,19,67,MOD,"Murky, debris on shore",2.39
+10340,2017-08-06,Marie Curtis Park East Beach,9,NW,15,Yes,1,13,10,LOW,Clear,1.52
+10341,2017-08-06,Sunnyside Beach,9,NW,15,Yes,1,12,59,LOW,Clear,1.49
+10400,2017-07-21,Marie Curtis Park East Beach,4,NW,21,Yes,17,18,2,LOW,Clear,1.27
+10401,2017-07-21,Sunnyside Beach,4,NW,21,Yes,17,19,46,LOW,Clear,1.62
+10430,2017-08-12,Marie Curtis Park East Beach,4,NW,18,Yes,2,15,3,LOW,Clear,0.98
+10431,2017-08-12,Sunnyside Beach,4,NW,18,Yes,2,18,47,LOW,Murky,2.76
+10480,2017-06-15,Marie Curtis Park East Beach,46,NE,16,Yes,0,12,30,HIGH,Murky ,1.91
+10481,2017-06-15,Sunnyside Beach,46,NE,16,Yes,0,12,40,HIGH,Clear,0.85
+10490,2017-06-26,Marie Curtis Park East Beach,5,NW,15,Yes,2,10,27,LOW,Clear,0.52
+10491,2017-06-26,Sunnyside Beach,5,NW,15,Yes,2,10,60,LOW,Murky,5.03
+10500,2017-06-27,Marie Curtis Park East Beach,17,SW,11,Yes,2,5,15,LOW,Clear,0.64
+10501,2017-06-27,Sunnyside Beach,17,SW,11,Yes,2,9,40,LOW,Cloudy,2.76
+10510,2017-06-28,Marie Curtis Park East Beach,15,SW,12,Yes,2,6,10,LOW,Clear,0.64
+10511,2017-06-28,Sunnyside Beach,15,SW,12,Yes,2,6,35,LOW,Cloudy,1.47
+10520,2017-07-02,Marie Curtis Park East Beach,5,SW,14,Yes,4,10,15,LOW,Murky,1.59
+10521,2017-07-02,Sunnyside Beach,5,SW,14,Yes,4,12,32,LOW,Murky,2.54
+10560,2017-08-01,Marie Curtis Park East Beach,5,NW,20,Yes,0,22,1,LOW,Murky,0.77
+10561,2017-08-01,Sunnyside Beach,5,NW,20,Yes,0,21,90,LOW,Clear,1.18
+10570,2017-08-18,Marie Curtis Park East Beach,8,SW,21,Yes,8,15,15,LOW,Brown + murky,3.1
+10571,2017-08-18,Sunnyside Beach,8,SW,21,Yes,8,15,61,LOW,Brown + murky,2.77
+10751,2018-06-14,Sunnyside Beach,34,NW,17,Yes,5,12,1,LOW,"clear, some algae",0.64
+10847,2018-07-06,Sunnyside Beach,18,NW,19,Yes,14,17,30,LOW,clear,1.15
+10856,2018-07-23,Marie Curtis Park East Beach,18,NE,21,Yes,20,18,5,LOW,cloudy,8.35
+10857,2018-07-23,Sunnyside Beach,18,NE,21,Yes,20,17,53,LOW,cloudy,0.95
+10951,2018-05-23,Marie Curtis Park East Beach,9,NW,7,Yes,7,9,2,LOW,Cloudy,1.7
+10952,2018-05-23,Sunnyside Beach,9,NW,7,Yes,7,11,4,LOW,Cloudy,1.41
+10981,2018-06-05,Marie Curtis Park East Beach,20,NW,12,Yes,1,10,10,LOW,Cloudy,1
+10982,2018-06-05,Sunnyside Beach,20,NW,12,Yes,1,9,2,LOW,Cloudy,0.62
+11011,2018-06-24,Marie Curtis Park East Beach,9,E,17,Yes,10,16,21,LOW,Murky/dark,0.85
+11012,2018-06-24,Sunnyside Beach,9,E,17,Yes,10,15,3,LOW,Murky/dark,0.36
+11041,2018-06-23,Marie Curtis Park East Beach,17,NE,16,No,1,15,5,MOD,Cloudy,1.76
+11042,2018-06-23,Sunnyside Beach,17,NE,16,No,1,14,37,LOW,"""Kinda clear""",0.61
+11051,2018-06-28,Marie Curtis Park East Beach,5,SW,17,Yes,10,18,4,LOW,"murky, cloudy",3
+11052,2018-06-28,Sunnyside Beach,5,SW,17,Yes,10,17,13,MOD,Cloudy,0.85
+11101,2018-07-17,Marie Curtis Park East Beach,15,NW,21,Yes,7,16,10,LOW,Cloudy,0.86
+11102,2018-07-17,Sunnyside Beach,15,NW,21,Yes,7,18,3,LOW,Cloudy,0.87
+11150,2018-06-06,Marie Curtis Park East Beach,13,N,11,Yes,0,11,1,LOW,Clear w/ Garbage on bottom,0.51
+11151,2018-06-06,Sunnyside Beach,13,N,11,Yes,0,9,10,LOW,Clear,0.46
+11160,2018-06-25,Marie Curtis Park East Beach,11,N,16,Yes,15,15,2,LOW,clear,1.11
+11161,2018-06-25,Sunnyside Beach,11,N,16,Yes,15,15,5,LOW,murky,2.9
+11220,2018-07-22,Marie Curtis Park East Beach,20,NE,19,Yes,0,21,20,LOW,murky,4.64
+11221,2018-07-22,Sunnyside Beach,20,NE,19,Yes,0,21,8,LOW,clear,1.56
+11240,2018-06-04,Marie Curtis Park East Beach,30,W,16,Yes,7,13,3,MOD,"Moslty clear, bit cloudy",2.55
+11241,2018-06-04,Sunnyside Beach,30,W,16,Yes,7,15,5,LOW,"Clear, some algae",1.04
+11310,2018-07-25,Marie Curtis Park East Beach,9,NW,22,Yes,13,17,7,LOW,clear,3.18
+11311,2018-07-25,Sunnyside Beach,9,NW,22,Yes,13,19,4,LOW,clear,0.82
+11321,2018-07-27,Sunnyside Beach,11,W,19,Yes,0,21,1,LOW,murky,1.48
+11358,2017-09-01,Marie Curtis Park East Beach,18,N,11,Yes,1,14,35,HIGH,Murky,1.7
+11359,2017-09-01,Sunnyside Beach,18,N,11,Yes,1,16,150,LOW,Murky,1.29
+11368,2018-06-01,Marie Curtis Park East Beach,9,E,18,Yes,8,18,20,LOW,Murky,23.3
+11369,2018-06-01,Sunnyside Beach,9,E,18,Yes,8,16,10,LOW,Cloudy,2.01
+11408,2018-06-19,Marie Curtis Park East Beach,18,NE,19,Yes,2,8,2,LOW,Clear,0.33
+11409,2018-06-19,Sunnyside Beach,18,NE,19,Yes,2,10,10,LOW,Clear,0.82
+11458,2019-08-20,Marie Curtis Park East Beach,9,NE,19,Yes,0,14,1,LOW,clear,0.61
+11459,2019-08-20,Sunnyside Beach,9,NE,19,Yes,0,16,3,NONE,clear,2.33
+11479,2024-06-03,Sunnyside Beach,15,NE,15,Yes,3,17,2,NONE,murky,1.8
+11599,2021-09-06,Sunnyside Beach,15,SW,15,Yes,0,18,71,NONE,Clear,1.23
+11658,2019-06-11,Marie Curtis Park East Beach,22,W,14,Yes,27,11,15,LOW,Clear,0.86
+11659,2019-06-11,Sunnyside Beach,22,W,14,Yes,27,11,3,LOW,Clear,1.47
+11689,2021-07-18,Sunnyside Beach,1,None,20,Yes,3,16,48,NONE,murky,0.93
+11719,2023-07-26,Sunnyside Beach,13,SW,22,Yes,4,20,6,NONE,Cloudy,2.23
+11738,2022-06-13,Marie Curtis Park East Beach,5,NW,15,Yes,1,9,17,NONE,Clear,0.79
+11739,2022-06-13,Sunnyside Beach,5,NW,15,Yes,1,11,7,NONE,Clear,2.98
+11838,2021-09-05,Marie Curtis Park East Beach,13,SW,20,Yes,1,18,25,NONE,Clear,1.61
+11839,2021-09-05,Sunnyside Beach,13,SW,20,Yes,1,15,64,LOW,Clear,1.09
+11849,2024-08-31,Sunnyside Beach,5,SW,22,Yes,4,22,7,NONE,Clear,0.71
+11919,2024-07-12,Sunnyside Beach,8,NW,20,Yes,1,21,7,NONE,murky,0.98
+11999,2020-07-23,Sunnyside Beach,8,NW,21,Yes,19,18,47,NONE,"cloudy, algae",1.82
+12029,2023-08-04,Sunnyside Beach,8,W,19,Yes,5,20,27,NONE,clear,2.16
+12048,2024-07-06,Marie Curtis Park East Beach,8,SW,20,Yes,1,18,7,NONE,Debris,0.8
+12049,2024-07-06,Sunnyside Beach,8,SW,20,Yes,1,20,31,NONE,Debris,1.03
+12138,2022-06-06,Marie Curtis Park East Beach,32,NE,16,Yes,0,9,25,MOD,Clear,0.64
+12139,2022-06-06,Sunnyside Beach,32,NE,16,Yes,0,11,42,LOW,Clear,0.79
+12149,2022-08-02,Sunnyside Beach,15,W,20,Yes,3,16,21,NONE,"Clear, Algae",0.95
+12219,2024-06-08,Sunnyside Beach,18,W,13,Yes,4,11,22,NONE,clear,0.56
+12228,2024-06-09,Marie Curtis Park East Beach,9,W,11,Yes,4,10,7,NONE,Clear,1.51
+12289,2019-08-22,Sunnyside Beach,9,NW,18,Yes,2,13,5,LOW,algae/debris,1.03
+12338,2022-08-05,Marie Curtis Park East Beach,5,SW,21,Yes,14,15,4,NONE,Murky,0.95
+12339,2022-08-05,Sunnyside Beach,5,SW,21,Yes,14,16,3,NONE,Clear,2.05
+12398,2019-08-09,Marie Curtis Park East Beach,15,W,17,Yes,3,12,30,LOW,"clear, algae",0.7
+12419,2021-06-03,Sunnyside Beach,13,E,14,Yes,5,6,16,LOW,Clear,0.58
+12448,2023-08-27,Marie Curtis Park East Beach,13,N,14,Yes,2,12,1,MOD,Murky,8.8
+12449,2023-08-27,Sunnyside Beach,13,N,14,Yes,2,14,11,LOW,Cloudy,1.23
+12469,2024-06-22,Sunnyside Beach,5,SE,21,Yes,1,18,11,NONE,cloudy,1.17
+12499,2020-06-29,Sunnyside Beach,18,NW,22,Yes,0,6,36,NONE,clear,0.37
+12508,2022-08-26,Marie Curtis Park East Beach,9,W,22,Yes,1,20,22,MOD,murky,2.98
+12509,2022-08-26,Sunnyside Beach,9,W,22,Yes,1,23,81,NONE,murky,0.74
+12529,2023-07-25,Sunnyside Beach,4,None,19,Yes,0,21,4,NONE,clear,2.14
+12558,2021-08-30,Marie Curtis Park East Beach,8,W,22,Yes,0,19,32,LOW,murky,4.4
+12559,2021-08-30,Sunnyside Beach,8,W,22,Yes,0,20,115,NONE,murky,1.24
+12579,2021-06-29,Sunnyside Beach,11,NE,19,Yes,3,13,112,LOW,"Clear, with algae and debris present within the water column.",0.77
+12598,2021-06-30,Marie Curtis Park East Beach,10,W,18,Yes,23,13,41,LOW,"Cloudy, Murky",5.53
+12599,2021-06-30,Sunnyside Beach,10,W,18,Yes,23,12,122,NONE,"Cloudy, Murky, Debris",9.36
+12799,2022-07-29,Sunnyside Beach,13,W,15,Yes,0,14,30,NONE,"clear, algae",0.8
+12818,2020-07-11,Marie Curtis Park East Beach,11,NW,23,Yes,0,19,4,NONE,cloudy,1.57
+12819,2020-07-11,Sunnyside Beach,11,NW,23,Yes,0,19,12,NONE,cloudy,4.14
+12858,2019-08-07,Marie Curtis Park East Beach,11,NE,22,Yes,5,16,4,NONE,Murky,2.88
+12859,2019-08-07,Sunnyside Beach,11,NE,22,Yes,5,19,12,NONE,Clear,2.08
+12978,2023-08-16,Marie Curtis Park East Beach,15,N,19,Yes,0,20,7,NONE,murky,6.25
+12988,2024-05-26,Marie Curtis Park East Beach,11,N,14,Yes,7,14,9,NONE,Clear,0.72
+12989,2024-05-26,Sunnyside Beach,11,N,14,Yes,7,15,2,NONE,Clear,0.83
+13022,2021-06-19,Marie Curtis Park East Beach,16,NW,20,Yes,13,8,2,MOD,Clear,1.26
+13023,2021-06-19,Sunnyside Beach,16,NW,20,Yes,13,9,20,MOD,Clear,0.88
+13032,2023-08-11,Marie Curtis Park East Beach,13,NW,17,Yes,2,20,3,NONE,clear,1.42
+13033,2023-08-11,Sunnyside Beach,13,NW,17,Yes,2,20,5,NONE,clear,0.85
+13142,2021-07-16,Marie Curtis Park East Beach,9,NW,19,Yes,17,21,12,LOW,clear,0.95
+13143,2021-07-16,Sunnyside Beach,9,NW,19,Yes,17,20,12,LOW,clear,1.85
+13163,2023-06-28,Sunnyside Beach,17,N,16,Yes,3,20,5,NONE,clear,1.19
+13192,2019-06-03,Marie Curtis Park East Beach,33,NW,9,Yes,3,10,10,LOW,Clear,0.47
+13193,2019-06-03,Sunnyside Beach,33,NW,9,Yes,3,10,3,LOW,Clear,0.67
+13203,2019-06-25,Sunnyside Beach,5,SW,17,Yes,13,9,2,MOD,Murky,8.49
+13233,2021-08-29,Sunnyside Beach,5,SE,22,No,0,19,15,LOW,Murky,1.01
+13253,2022-07-06,Sunnyside Beach,15,NW,17,Yes,6,13,24,NONE,clear,0.65
+13339,2019-05-29,Marie Curtis Park East Beach,9,E,11,Yes,3,7,4,LOW,Murky,6.85
+13359,2022-05-28,Marie Curtis Park East Beach,15,N,14,Yes,2,12,1,LOW,Clear,0.74
+13360,2022-05-28,Sunnyside Beach,15,N,14,Yes,2,13,20,LOW,Clear,0.59
+13379,2024-08-12,Marie Curtis Park East Beach,13,W,16,Yes,1,14,6,NONE,Clear,0.34
+13380,2024-08-12,Sunnyside Beach,13,W,16,Yes,1,15,28,NONE,Clear,0.6
+13429,2024-06-27,Marie Curtis Park East Beach,11,NW,15,Yes,4,15,2,NONE,clear,0.85
+13430,2024-06-27,Sunnyside Beach,11,NW,15,Yes,4,17,37,NONE,clear,1.85
+13559,2021-08-08,Marie Curtis Park East Beach,5,E,22,Yes,1,20,3,NONE,murky,2.17
+13560,2021-08-08,Sunnyside Beach,5,E,22,Yes,1,19,7,NONE,debris and algae,0.7
+13570,2024-08-10,Sunnyside Beach,18,W,17,Yes,7,22,36,NONE,clear,1.36
+13600,2024-07-15,Sunnyside Beach,18,SW,22,Yes,2,24,15,NONE,debris,1.57
+13610,2024-08-01,Sunnyside Beach,15,NW,23,Yes,1,24,30,NONE,Murky,0.83
+13620,2020-07-12,Sunnyside Beach,11,W,19,Yes,13,15,30,LOW,murky,1.94
+13629,2021-06-04,Marie Curtis Park East Beach,5,W,13,Yes,2,13,20,LOW,"Clear, algae",1.39
+13630,2021-06-04,Sunnyside Beach,5,W,13,Yes,2,12,50,NONE,"Cloudy, algae",0.63
+13660,2020-08-02,Sunnyside Beach,30,E,20,Yes,3,17,7,LOW,"Murky, Some Algae",0.78
+13669,2020-08-04,Marie Curtis Park East Beach,9,NE,21,Yes,19,18,4,NONE,Murky,3.63
+13670,2020-08-04,Sunnyside Beach,9,NE,21,Yes,19,17,63,NONE,Murky,3.28
+13770,2020-08-06,Sunnyside Beach,4,W,16,Yes,0,16,12,NONE,Clear,0.82
+13780,2021-08-02,Sunnyside Beach,8,NW,15,Yes,0,21,6,NONE,Very Clear,0.49
+13799,2018-08-08,Marie Curtis Park East Beach,9,NE,22,Yes,72,14,32,LOW,murky,26.8
+13800,2018-08-08,Sunnyside Beach,9,NE,22,Yes,72,15,52,LOW,cloudy and murky. Lots of debris in water,6.02
+13809,2018-08-26,Marie Curtis Park East Beach,8,SW,20,Yes,8,18,36,MOD,Murky,42.3
+13810,2018-08-26,Sunnyside Beach,8,SW,20,Yes,8,20,25,NONE,Clear,3.16
+13819,2021-05-27,Marie Curtis Park East Beach,18,NW,10,Yes,2,5,4,LOW,Clear,0.66
+13820,2021-05-27,Sunnyside Beach,18,NW,10,Yes,2,6,6,LOW,Clear,0.39
+13870,2020-07-09,Sunnyside Beach,4,SW,23,Yes,16,15,16,NONE,Murky,29.8
+13919,2022-06-27,Marie Curtis Park East Beach,21,NW,17,Yes,0,13,2,NONE,Clear,0.6
+13920,2022-06-27,Sunnyside Beach,21,NW,17,Yes,0,14,8,NONE,"Clear, algae",0.83
+13949,2018-08-07,Marie Curtis Park East Beach,5,SW,22,Yes,21,20,24,LOW,Cloudy,3.19
+13950,2018-08-07,Sunnyside Beach,5,SW,22,Yes,21,23,3,LOW,"Cloudy, Debris ",2.39
+13989,2022-08-09,Marie Curtis Park East Beach,24,NW,19,Yes,0,16,6,NONE,Clear + algae,0.69
+14009,2022-07-13,Marie Curtis Park East Beach,11,W,20,Yes,0,13,8,NONE,"Clear, Algea",0.7
+14010,2022-07-13,Sunnyside Beach,11,W,20,Yes,0,15,25,NONE,Clear,0.53
+14030,2022-06-08,Sunnyside Beach,18,NW,13,Yes,21,12,12,NONE,"murky, debris",1.93
+14039,2022-06-09,Marie Curtis Park East Beach,13,NW,14,Yes,2,8,3,NONE,murky,3.77
+14040,2022-06-09,Sunnyside Beach,13,NW,14,Yes,2,8,3,NONE,"murky, algae",1.72
+14099,2023-08-25,Marie Curtis Park East Beach,5,N,19,Yes,9,13,3,LOW,Murky,1.3
+14100,2023-08-25,Sunnyside Beach,5,N,19,Yes,9,14,3,NONE,Murky,0.99
+14150,2022-08-22,Sunnyside Beach,11,NW,21,Yes,13,22,26,NONE,clear,1.01
+14160,2018-08-09,Sunnyside Beach,8,NW,19,Yes,8,21,4,LOW,Slightly turbid,1.41
+14200,2023-06-16,Sunnyside Beach,11,NW,15,Yes,1,16,3,NONE,Clear,1.14
+14249,2023-08-07,Marie Curtis Park East Beach,4,NE,21,Yes,3,20,12,MOD,Cloudy,12.7
+14279,2019-07-28,Marie Curtis Park East Beach,17,W,18,Yes,2,14,3,MOD,Cloudy,1.45
+14280,2019-07-28,Sunnyside Beach,17,W,18,Yes,2,14,15,LOW,"Murky, some algae and sticks",3.45
+14319,2021-05-29,Marie Curtis Park East Beach,18,NE,8,Yes,16,4,7,LOW,Cloudy,2.65
+14320,2021-05-29,Sunnyside Beach,18,NE,8,Yes,16,3,12,LOW,Clear,2.79
+14390,2023-07-03,Sunnyside Beach,13,E,20,Yes,1,23,18,NONE,clear,0.53
+14400,2023-07-04,Sunnyside Beach,11,W,21,Yes,4,23,5,NONE,clear,0.63
+14410,2024-07-13,Sunnyside Beach,9,W,19,Yes,7,22,1,NONE,Clear ,0.8
+14420,2024-07-14,Sunnyside Beach,4,S,21,Yes,0,24,8,NONE,Clear ,0.91
+14449,2021-07-03,Marie Curtis Park East Beach,16,NW,17,Yes,15,16,2,NONE,Cloudy,5.75
+14450,2021-07-03,Sunnyside Beach,16,NW,17,Yes,15,15,42,NONE,Clear,0.75
+14469,2021-06-15,Marie Curtis Park East Beach,17,NW,18,Yes,6,12,16,NONE,"Clear, with algae present within the water column.",0.64
+14470,2021-06-15,Sunnyside Beach,17,NW,18,Yes,6,12,35,NONE,"Clear, with algae present within the water column.",1.29
+14550,2024-06-10,Sunnyside Beach,18,NW,13,Yes,3,9,3,NONE,Clear,0.33
+14621,2018-08-22,Marie Curtis Park East Beach,21,NW,19,Yes,42,21,8,MOD,Murky,1.24
+14622,2018-08-22,Sunnyside Beach,21,NW,19,Yes,42,22,4,LOW,"Cloudy, algae, debris",1.86
+14631,2019-06-06,Marie Curtis Park East Beach,15,N,16,Yes,12,6,5,LOW,Clear,1.45
+14632,2019-06-06,Sunnyside Beach,15,N,16,Yes,12,6,10,LOW,Clear,1.88
+14652,2020-07-17,Sunnyside Beach,15,SE,24,Yes,3,18,41,NONE,murky,20
+14692,2023-07-18,Sunnyside Beach,8,W,20,Yes,1,21,7,NONE,clear,1.63
+14712,2024-09-07,Sunnyside Beach,15,W,13,Yes,3,19,32,NONE,clear,0.77
+14749,2023-06-13,Sunnyside Beach,20,S,20,Yes,43,15,18,MOD,Murky,1.26
+14778,2019-07-31,Marie Curtis Park East Beach,9,N,19,Yes,30,10,10,LOW,Clear,0.8
+14779,2019-07-31,Sunnyside Beach,9,N,19,Yes,30,12,3,LOW,Clear,1.09
+14788,2020-09-02,Marie Curtis Park East Beach,5,SE,22,Yes,1,18,7,MOD,"murky, cloudy",4.49
+14789,2020-09-02,Sunnyside Beach,5,SE,22,Yes,1,18,21,LOW,clear,2.64
+14849,2024-09-01,Sunnyside Beach,18,SW,20,Yes,6,22,12,NONE,Murky,1.22
+14889,2023-07-28,Sunnyside Beach,11,SW,22,Yes,22,21,11,NONE,Clear,1.06
+14922,2019-08-28,Sunnyside Beach,5,W,19,Yes,11,18,4,NONE,clear,2.67
+14962,2024-07-25,Sunnyside Beach,13,NW,17,Yes,11,21,7,NONE,Clear,0.8
+14971,2024-08-17,Marie Curtis Park East Beach,15,NE,21,Yes,4,22,7,LOW,Murky,0.95
+14972,2024-08-17,Sunnyside Beach,15,NE,21,Yes,4,22,2,NONE,Clear,0.62
+15040,2020-08-17,Marie Curtis Park East Beach,11,NW,18,Yes,0,22,4,NONE,Cloudy,1.76
+15041,2020-08-17,Sunnyside Beach,11,NW,18,Yes,0,20,38,NONE,Clear,0.74
+15101,2021-07-28,Sunnyside Beach,15,NE,19,Yes,6,17,61,NONE,Clear,0.9
+15180,2021-07-21,Marie Curtis Park East Beach,15,N,17,Yes,1,16,6,LOW,Cloudy,1.65
+15181,2021-07-21,Sunnyside Beach,15,N,17,Yes,1,16,4,NONE,Clear,0.93
+15200,2021-07-01,Marie Curtis Park East Beach,5,NW,20,Yes,0,5,8,NONE,Cloudy,0.49
+15201,2021-07-01,Sunnyside Beach,5,NW,20,Yes,0,8,12,NONE,Murky,1.41
+15240,2022-06-02,Marie Curtis Park East Beach,13,W,12,Yes,4,12,2,NONE,clear,1.56
+15241,2022-06-02,Sunnyside Beach,13,W,12,Yes,4,13,6,NONE,Murky,1.37
+15292,2023-06-12,Sunnyside Beach,35,NE,15,Yes,6,16,9,NONE,Cloudy ,1.03
+15332,2022-07-02,Sunnyside Beach,5,SW,17,Yes,2,12,6,NONE,clear,0.62
+15341,2022-08-21,Marie Curtis Park East Beach,15,NE,20,Yes,1,21,3,LOW,murky,2.36
+15342,2022-08-21,Sunnyside Beach,15,NE,20,Yes,1,19,32,NONE,"clear, algae",0.91
+15432,2022-08-31,Sunnyside Beach,21,W,18,Yes,3,22,34,NONE,Murky,1.57
+15472,2024-09-06,Sunnyside Beach,18,SW,20,Yes,5,18,34,NONE,Clear,2.77
+15581,2018-08-10,Marie Curtis Park East Beach,11,N,19,Yes,13,20,2,MOD,murky,7.91
+15582,2018-08-10,Sunnyside Beach,11,N,19,Yes,13,23,5,LOW,murky,1.85
+15632,2023-06-27,Sunnyside Beach,4,SE,20,Yes,9,21,18,NONE,Murky,3.06
+15681,2023-08-13,Marie Curtis Park East Beach,9,W,18,Yes,0,16,7,NONE,Clear,0.57
+15682,2023-08-13,Sunnyside Beach,9,W,18,Yes,0,20,7,NONE,Clear,1.15
+15752,2023-08-08,Sunnyside Beach,33,NW,18,Yes,6,20,8,NONE,clear,1.08
+15762,2024-05-27,Sunnyside Beach,4,SE,16,Yes,3,16,5,NONE,Debris,1.07
+15771,2024-07-11,Marie Curtis Park East Beach,13,N,19,Yes,47,20,3,NONE,Murky,7.97
+15772,2024-07-11,Sunnyside Beach,13,N,19,Yes,47,20,24,NONE,Murky,1.87
+15792,2021-07-14,Sunnyside Beach,18,W,23,Yes,2,19,4,NONE,Clear,1.01
+15801,2024-05-29,Marie Curtis Park East Beach,18,NE,15,Yes,12,13,4,NONE,Murky,2.31
+15802,2024-05-29,Sunnyside Beach,18,NE,15,Yes,12,15,10,NONE,clear,1.56
+15832,2020-07-13,Sunnyside Beach,9,NW,20,Yes,9,12,38,NONE,Clear,1.47
+15852,2019-08-18,Sunnyside Beach,21,SE,20,Yes,14,14,20,LOW,clear,1.73
+15892,2021-07-08,Sunnyside Beach,9,E,16,Yes,5,18,30,HIGH,Murky with algae and debris within the water column.,2.46
+15902,2022-07-25,Sunnyside Beach,21,NW,19,Yes,12,13,11,NONE,Murky,1.22
+15941,2021-07-12,Marie Curtis Park East Beach,21,NE,20,Yes,1,16,17,HIGH,cloudy,0.58
+15942,2021-07-12,Sunnyside Beach,21,NE,20,Yes,1,19,36,MOD,cloudy,0.61
+15952,2023-07-16,Sunnyside Beach,9,E,20,Yes,9,21,12,NONE,Murky,0.75
+15962,2023-07-17,Sunnyside Beach,24,W,19,Yes,2,22,6,NONE,clear/ murky,1.58
+15991,2019-07-14,Marie Curtis Park East Beach,17,NW,18,Yes,20,15,10,NONE,Clear,1.08
+15992,2019-07-14,Sunnyside Beach,17,NW,18,Yes,20,16,20,NONE,Clear,1.21
+16002,2019-08-19,Sunnyside Beach,11,SW,19,Yes,3,15,20,LOW,Cloudy,3.41
+16041,2020-08-05,Marie Curtis Park East Beach,18,W,16,Yes,3,14,8,NONE,Clear,4.39
+16042,2020-08-05,Sunnyside Beach,18,W,16,Yes,3,16,4,NONE,Clear,1.58
+16072,2024-08-29,Sunnyside Beach,15,NE,17,Yes,0,19,10,NONE,Cloudy,2.12
+16132,2024-06-30,Sunnyside Beach,24,NW,20,Yes,20,17,22,NONE,murky,1.41
+16191,2019-09-02,Marie Curtis Park East Beach,11,NW,18,Yes,0,13,19,NONE,clear,0.7
+16192,2019-09-02,Sunnyside Beach,11,NW,18,Yes,0,16,8,NONE,clear,0.89
+16201,2021-08-27,Marie Curtis Park East Beach,24,NE,22,Yes,0,18,10,HIGH,"Murky, debris",3.22
+16202,2021-08-27,Sunnyside Beach,24,NE,22,Yes,0,16,100,LOW,"Cloudy, debris",0.68
+16211,2019-05-23,Marie Curtis Park East Beach,13,SE,11,Yes,0,7,12,LOW,cloudy,4.93
+16212,2019-05-23,Sunnyside Beach,13,SE,11,Yes,0,7,39,LOW,cloudy,1.53
+16252,2024-06-19,Sunnyside Beach,4,S,21,Yes,15,20,15,NONE,debris,1.31
+16271,2020-08-18,Marie Curtis Park East Beach,13,NW,17,Yes,15,20,4,NONE,Clear,1.38
+16272,2020-08-18,Sunnyside Beach,13,NW,17,Yes,15,18,25,NONE,"Clear, some algae",0.99
+16281,2020-06-24,Marie Curtis Park East Beach,26,SW,17,Yes,3,17,7,HIGH,cloudy,3.48
+16282,2020-06-24,Sunnyside Beach,26,SW,17,Yes,3,16,11,MOD,cloudy,4.25
+16341,2019-06-30,Marie Curtis Park East Beach,17,NW,19,Yes,2,15,2,NONE,Clear,1.1
+16342,2019-06-30,Sunnyside Beach,17,NW,19,Yes,2,14,12,NONE,Clear,0.72
+16371,2019-07-12,Marie Curtis Park East Beach,17,NW,19,Yes,0,14,4,LOW,Clear,0.45
+16372,2019-07-12,Sunnyside Beach,17,NW,19,Yes,0,12,42,LOW,Clear,0.98
+16481,2021-06-22,Marie Curtis Park East Beach,13,NW,12,Yes,4,10,12,NONE,Murky,0.58
+16482,2021-06-22,Sunnyside Beach,13,NW,12,Yes,4,12,51,NONE,Murky,0.75
+16501,2022-07-12,Marie Curtis Park East Beach,11,W,21,Yes,3,16,2,LOW,Cloudy,0.85
+16502,2022-07-12,Sunnyside Beach,11,W,21,Yes,3,18,24,MOD,Cloudy,1.07
+16612,2024-08-30,Sunnyside Beach,13,NE,19,Yes,3,20,30,NONE,cloudy,0.61
+16641,2020-09-03,Marie Curtis Park East Beach,8,NW,17,Yes,2,19,12,NONE,Clear,1.52
+16652,2023-07-21,Sunnyside Beach,19,NW,19,Yes,3,21,2,NONE,clear,1.53
+16692,2019-06-27,Sunnyside Beach,4,NW,21,Yes,0,12,4,LOW,Clear,21.8
+16751,2021-08-14,Marie Curtis Park East Beach,11,NW,19,Yes,0,13,2,NONE,Clear/algae,0.36
+16752,2021-08-14,Sunnyside Beach,11,NW,19,Yes,0,14,84,NONE,Clear/algae,0.55
+16771,2022-06-10,Marie Curtis Park East Beach,24,NW,15,Yes,7,12,11,NONE,clear,0.69
+16772,2022-06-10,Sunnyside Beach,24,NW,15,Yes,7,13,4,NONE,clear,0.89
+16781,2022-08-04,Marie Curtis Park East Beach,9,W,21,Yes,0,13,24,NONE,clear,0.68
+16782,2022-08-04,Sunnyside Beach,9,W,21,Yes,0,15,15,NONE,clear,0.85
+16812,2021-07-25,Sunnyside Beach,9,W,19,Yes,18,15,60,LOW,Clear with Debris and Algae,1.41
+16822,2024-06-21,Sunnyside Beach,17,E,21,Yes,54,21,15,NONE,debris,3.7
+16862,2021-06-26,Sunnyside Beach,17,SW,16,Yes,13,9,22,MOD,Cloudy with algae present within the water column.,1.71
+16871,2021-06-27,Marie Curtis Park East Beach,9,SW,17,Yes,3,8,13,MOD,Murky,1.4
+16872,2021-06-27,Sunnyside Beach,9,SW,17,Yes,3,9,24,MOD,Murky,2.81
+16912,2023-06-10,Sunnyside Beach,11,W,14,Yes,3,19,6,NONE,Clear,0.73
+16962,2023-06-25,Sunnyside Beach,15,E,22,Yes,1,21,12,NONE,clear,1.54
+16972,2023-06-26,Sunnyside Beach,24,NE,20,Yes,9,21,11,NONE,cloudy,1.09
+16992,2019-06-16,Sunnyside Beach,11,E,13,Yes,0,10,2,LOW,Clear,1.29
+17012,2021-08-31,Sunnyside Beach,11,NW,19,Yes,0,19,13,NONE,Clear,0.81
+17042,2023-07-27,Sunnyside Beach,9,SW,21,Yes,9,23,3,NONE,murky,3.6
+17111,2021-07-09,Marie Curtis Park East Beach,5,NW,18,Yes,23,12,22,LOW,"Murky, Debris",2.53
+17112,2021-07-09,Sunnyside Beach,5,NW,18,Yes,23,13,41,LOW,"Murky, Debris",0.81
+17182,2021-07-10,Sunnyside Beach,11,NW,17,Yes,2,14,50,NONE,murky,0.72
+17211,2021-08-19,Marie Curtis Park East Beach,9,NW,22,Yes,0,17,27,LOW,"slightly murky, algae",1.25
+17212,2021-08-19,Sunnyside Beach,9,NW,22,Yes,0,18,156,NONE,"clear, algae",0.71
+17301,2021-06-21,Marie Curtis Park East Beach,13,S,19,Yes,0,9,17,MOD,Murky,2.67
+17302,2021-06-21,Sunnyside Beach,13,S,19,Yes,0,10,21,MOD,Murky,0.78
+17331,2020-08-03,Marie Curtis Park East Beach,9,SW,18,Yes,37,17,3,LOW,Cloudy,2.63
+17332,2020-08-03,Sunnyside Beach,9,SW,18,Yes,37,17,4,NONE,Cloudy,9.78
+17381,2023-06-15,Marie Curtis Park East Beach,8,W,14,Yes,6,16,19,NONE,cloudy,1.61
+17392,2023-08-18,Sunnyside Beach,32,W,15,Yes,6,16,22,MOD,clear,2.13
+17451,2019-08-29,Marie Curtis Park East Beach,15,W,17,Yes,0,18,3,LOW,cloudy,2.48
+17452,2019-08-29,Sunnyside Beach,15,W,17,Yes,0,18,10,NONE,clear,2.07
+17471,2021-08-13,Marie Curtis Park East Beach,15,SW,22,Yes,0,15,5,LOW,Clear,0.93
+17472,2021-08-13,Sunnyside Beach,15,SW,22,Yes,0,16,60,LOW,"Murky, algae",1.13
+17481,2022-06-07,Marie Curtis Park East Beach,13,SE,17,Yes,8,12,4,LOW,Clear,0.66
+17482,2022-06-07,Sunnyside Beach,13,SE,17,Yes,8,13,16,NONE,Murky,0.92
+17551,2019-07-21,Marie Curtis Park East Beach,11,SW,19,Yes,5,7,39,LOW,cloudy,1.56
+17652,2023-06-09,Sunnyside Beach,11,W,14,Yes,0,14,4,NONE,clear,0.78
+17721,2018-08-23,Marie Curtis Park East Beach,13,NW,17,Yes,0,17,10,LOW,Clear,2.85
+17722,2018-08-23,Sunnyside Beach,13,NW,17,Yes,0,16,7,LOW,Clear,1.28
+17731,2021-07-30,Marie Curtis Park East Beach,13,NW,16,Yes,14,20,21,NONE,murky,5.19
+17732,2021-07-30,Sunnyside Beach,13,NW,16,Yes,14,16,52,LOW,murky,0.82
+17781,2022-07-19,Marie Curtis Park East Beach,17,NW,26,Yes,25,21,6,NONE,Cloudy,1.25
+17782,2022-07-19,Sunnyside Beach,17,NW,26,Yes,25,20,37,NONE,Cloudy,4.66
+17791,2018-08-28,Marie Curtis Park East Beach,21,SW,22,Yes,2,18,8,MOD,murky,3.54
+17792,2018-08-28,Sunnyside Beach,21,SW,22,Yes,2,19,2,LOW,cloudy,1.7
+17802,2023-06-03,Sunnyside Beach,28,NE,21,Yes,2,17,23,NONE,Clear,0.62
+17811,2019-06-10,Marie Curtis Park East Beach,15,E,13,Yes,12,9,9,MOD,Murky,2.26
+17812,2019-06-10,Sunnyside Beach,15,E,13,Yes,12,9,2,MOD,Murky,1.49
+17821,2019-07-17,Marie Curtis Park East Beach,4,W,20,Yes,3,16,7,LOW,Murky,1.64
+17822,2019-07-17,Sunnyside Beach,4,W,20,Yes,3,18,3,LOW,Murky,1.7
+17852,2021-08-12,Sunnyside Beach,15,SW,22,Yes,1,18,32,NONE,"Mukry, Algae",1.56
+17892,2024-06-06,Sunnyside Beach,8,SW,17,Yes,1,20,12,NONE,Algae,1.15
+17981,2019-07-30,Marie Curtis Park East Beach,9,S,18,Yes,1,11,12,NONE,cloudy,2.38
+17982,2019-07-30,Sunnyside Beach,9,S,18,Yes,1,14,50,NONE,cloudy,2.88
