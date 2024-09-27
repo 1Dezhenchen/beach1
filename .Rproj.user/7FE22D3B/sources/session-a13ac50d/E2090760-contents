@@ -206,7 +206,7 @@ p6<-ggplot(cleaned_data, aes(x = turbidity)) +
   geom_histogram(binwidth = 5, fill = "lightblue", color = "black") +
   labs(title = "Distribution of Turbidity",
        x = "Turbidity (NTU)", y = "Count") +
-  xlim(0, 120) +ylim(0, 300)  # Set the x-axis limits from 0 to 120
+  xlim(0, 120) +ylim(0, 300) +  # Set the x-axis limits from 0 to 120
   theme_minimal()
 
 # Scatter plot for turbidity vs water temperature with smoother
@@ -215,7 +215,7 @@ p7<-ggplot(cleaned_data, aes(x = waterTemp, y = turbidity)) +
   geom_smooth(method = "loess", color = "red", se = TRUE) +  # Add a smooth line with confidence interval
   labs(title = "Turbidity vs Water Temperature",
        x = "Water Temperature (°C)", y = "Turbidity (NTU)") +
-  ylim(0, 125)
+  ylim(0, 125) +
   theme_minimal()
   
 invisible(print(p6))
